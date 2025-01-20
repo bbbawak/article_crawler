@@ -1,0 +1,21 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'website-monitor'
+    metrics_path: /probe
+    params:
+      module: [http_2xx]
+    static_configs:
+      - targets:
+        - https://www.trobits.com  # Replace with your website URL
+    relabel_configs:
+      - source_labels: [__param_target]
+        target_label: target
+      - target_label: __param_job
+        replacement: website-monitor
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: job
+        replacement: website-monitor
+

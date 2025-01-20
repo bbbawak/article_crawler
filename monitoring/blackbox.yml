@@ -1,0 +1,14 @@
+modules:
+  http_2xx:
+    prober: http
+    timeout: 5s
+    valid_http_versions: [ "1.1", "2"]
+    valid_http_mime_types: [ "text/plain", "text/html", "application/json" ]
+    method: GET
+    headers:
+      User-Agent: "Prometheus/2.0"
+    body: ""
+    preferred_ip_protocol: "ip4"
+    follow_redirects: true
+    max_redirects: 10
+

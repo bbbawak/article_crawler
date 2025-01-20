@@ -1,0 +1,243 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  email        String   @unique
+  password     String
+  firstName    String
+  lastName     String
+  profileImage String?
+  coverImage   String?
+  isDeleted    Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  followers    String[] @db.ObjectId
+  following    String[] @db.ObjectId
+  recommended  Boolean  @default(false)
+
+  role     Role    @default(USER)
+  verified Boolean @default(false)
+  otp      String?
+
+  otpExpiry    DateTime?
+  refreshToken String?
+  posts        Post[]    @relation("UserPosts")
+  comments     Comment[] @relation("UserComments")
+
+  @@map("users")
+}
+
+// model Comment {
+//   id           String   @id @default(auto()) @map("_id") @db.ObjectId
+//   content      String
+//   createdAt    DateTime @default(now())
+//   updatedAt    DateTime @updatedAt
+//   authorId     String   @db.ObjectId
+//   author       User     @relation("UserComments", fields: [authorId], references: [id])
+//   postId       String   @db.ObjectId
+//   post         Post     @relation("PostComments", fields: [postId], references: [id])
+//   likers       String[] @db.ObjectId
+//   dislikers    String[] @db.ObjectId
+//   likeCount    Int      @default(0)
+//   dislikeCount Int      @default(0)
+//   articleId    String   @db.ObjectId
+//   article      Article? @relation("ArticleComments", fields: [articleId], references: [id])
+
+//   @@map("comments")
+// }
+
+// model Comment {
+//   id           String   @id @default(auto()) @map("_id") @db.ObjectId
+//   content      String
+//   createdAt    DateTime @default(now())
+//   updatedAt    DateTime @updatedAt
+//   authorId     String   @db.ObjectId
+//   author       User     @relation("UserComments", fields: [authorId], references: [id])
+//   postId       String?  @db.ObjectId
+//   post         Post?    @relation("PostComments", fields: [postId], references: [id])
+//   articleId    String?  @db.ObjectId
+//   article      Article? @relation("ArticleComments", fields: [articleId], references: [id])
+//   likers       String[] @db.ObjectId
+//   dislikers    String[] @db.ObjectId
+//   likeCount    Int      @default(0)
+//   dislikeCount Int      @default(0)
+
+//   // @@unique([postId, articleId])
+//   @@map("comments")
+// }
+
+model Comment {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  content      String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  authorId     String   @db.ObjectId
+  author       User     @relation("UserComments", fields: [authorId], references: [id])
+  postId       String?  @db.ObjectId
+  post         Post?    @relation("PostComments", fields: [postId], references: [id])
+  articleId    String?  @db.ObjectId
+  article      Article? @relation("ArticleComments", fields: [articleId], references: [id])
+  likers       String[] @db.ObjectId
+  dislikers    String[] @db.ObjectId
+  likeCount    Int      @default(0)
+  dislikeCount Int      @default(0)
+
+  // For replies
+  replyToId String?   @db.ObjectId // ID of the comment being replied to (if any)
+  replies   Comment[] @relation("CommentReplies")
+  parent    Comment?  @relation("CommentReplies", fields: [replyToId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@map("comments")
+}
+
+model Post {
+  id        String        @id @default(auto()) @map("_id") @db.ObjectId
+  content   String
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+  authorId  String        @db.ObjectId
+  author    User          @relation("UserPosts", fields: [authorId], references: [id])
+  image     String?
+  likeCount Int           @default(0)
+  likers    String[]      @db.ObjectId
+  comments  Comment[]     @relation("PostComments")
+  topicId   String?       @db.ObjectId
+  topic     Topic?        @relation("TopicPosts", fields: [topicId], references: [id])
+  video     String?
+  category  PostCategory?
+
+  @@map("posts")
+}
+
+model Article {
+  id        String    @id @default(auto()) @map("_id") @db.ObjectId
+  title     String
+  content   String
+  authorId  String    @db.ObjectId
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  image     String?
+  likeCount Int       @default(0)
+  likers    String[]  @db.ObjectId
+  comments  Comment[] @relation("ArticleComments")
+
+  @@map("articles")
+}
+
+model Topic {
+  id          String  @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  description String?
+  image       String?
+  topicAuthor String  @db.ObjectId
+  posts       Post[]  @relation("TopicPosts")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("topics")
+}
+
+model Notification {
+  id        String           @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String           @db.ObjectId
+  senderId  String           @db.ObjectId
+  message   String
+  type      NotificationType
+  createdAt DateTime         @default(now())
+  isRead    Boolean          @default(false)
+  postId    String?          @db.ObjectId
+  category  String?
+
+  @@map("notifications")
+}
+
+model Shiba {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  visits       String
+  revenue      String
+  burns        String
+  visits7Day   String
+  revenue7Day  String
+  burns7Day    String
+  visits30Day  String
+  revenue30Day String
+  burns30Day   String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Lunc {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  visits       String
+  revenue      String
+  burns        String
+  visits7Day   String
+  revenue7Day  String
+  burns7Day    String
+  visits30Day  String
+  revenue30Day String
+  burns30Day   String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model ShibaBurnArchive {
+  id    String       @id @default(auto()) @map("_id") @db.ObjectId
+  name  CurrencyName @default(SHIBA)
+  burns ShibaBurn[]
+}
+
+model ShibaBurn {
+  id                 String            @id @default(auto()) @map("_id") @db.ObjectId
+  currency           CurrencyName      @default(SHIBA)
+  date               String            @unique
+  transactionRef     String
+  burnCount          Float
+  shibaBurnArchiveId String?           @db.ObjectId
+  ShibaBurnArchive   ShibaBurnArchive? @relation(fields: [shibaBurnArchiveId], references: [id])
+}
+
+model LuncBurn {
+  id                String           @id @default(auto()) @map("_id") @db.ObjectId
+  currency          CurrencyName     @default(LUNC)
+  date              String           @unique
+  transactionRef    String
+  burnCount         Float
+  luncBurnArchiveId String?          @db.ObjectId
+  LuncBurnArchive   LuncBurnArchive? @relation(fields: [luncBurnArchiveId], references: [id])
+}
+
+model LuncBurnArchive {
+  id    String       @id @default(auto()) @map("_id") @db.ObjectId
+  name  CurrencyName @default(LUNC)
+  burns LuncBurn[]
+}
+
+enum CurrencyName {
+  SHIBA
+  LUNC
+}
+
+enum NotificationType {
+  FOLLOW
+  LIKE
+  COMMENT
+}
+
+enum Role {
+  ADMIN
+  USER
+}
+
+enum PostCategory {
+  IMAGE
+  VIDEO
+}
