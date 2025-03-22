@@ -1,0 +1,2106 @@
+2025-03-05 14:41:32,134 - INFO - Starting main process...
+2025-03-05 14:41:32,134 - INFO - Loaded 0 previously sent articles
+2025-03-05 14:41:32,134 - INFO - Starting article scraping process...
+2025-03-05 14:41:34,784 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:42:00,768 - ERROR - Timeout waiting for article elements to load
+2025-03-05 14:42:00,853 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:42:00,854 - WARNING - No articles found during scraping.
+2025-03-05 14:42:44,877 - INFO - Starting main process...
+2025-03-05 14:42:44,878 - INFO - Loaded 0 previously sent articles
+2025-03-05 14:42:44,878 - INFO - Starting article scraping process...
+2025-03-05 14:42:47,265 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:42:57,849 - INFO - Found 33 article elements
+2025-03-05 14:42:57,860 - INFO - Extracted 4 article links
+2025-03-05 14:42:57,860 - INFO - Processing article: https://www.trobits.com/
+2025-03-05 14:43:18,685 - ERROR - Timeout waiting for title at https://www.trobits.com/
+2025-03-05 14:43:18,686 - INFO - Processing article: https://www.trobits.com/
+2025-03-05 14:43:39,366 - ERROR - Timeout waiting for title at https://www.trobits.com/
+2025-03-05 14:43:39,366 - INFO - Processing article: https://www.trobits.com/articles
+2025-03-05 14:43:44,477 - INFO - Found title: Trobits Articles
+2025-03-05 14:43:59,764 - WARNING - Could not find author for https://www.trobits.com/articles
+2025-03-05 14:44:15,038 - ERROR - Timeout waiting for paragraphs at https://www.trobits.com/articles
+2025-03-05 14:44:15,038 - INFO - Processing article: https://www.trobits.com/cryptohub
+2025-03-05 14:44:35,561 - ERROR - Timeout waiting for title at https://www.trobits.com/cryptohub
+2025-03-05 14:44:35,692 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:44:35,692 - WARNING - No articles found during scraping.
+2025-03-05 14:47:22,944 - INFO - Starting main process...
+2025-03-05 14:47:22,945 - INFO - Loaded 0 previously sent articles
+2025-03-05 14:47:22,945 - INFO - Starting article scraping process...
+2025-03-05 14:48:00,238 - INFO - Starting main process...
+2025-03-05 14:48:00,239 - INFO - Loaded 0 previously sent articles
+2025-03-05 14:48:00,239 - INFO - Starting article scraping process...
+2025-03-05 14:48:03,683 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:48:14,398 - INFO - Found 12 article elements
+2025-03-05 14:48:14,469 - INFO - Extracted 4 unique article links
+2025-03-05 14:48:14,469 - INFO - Processing article: https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 14:48:19,627 - INFO - Found title: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 14:48:34,942 - WARNING - Could not find author for https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 14:48:35,023 - INFO - Found 14 paragraphs
+2025-03-05 14:48:35,023 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 5, 2025'
+2025-03-05 14:48:35,023 - INFO - Processing article: https://www.trobits.com/articles/67c7055a2daa709294aaeb08
+2025-03-05 14:48:40,141 - INFO - Found title: Daily Brief with Rexannie: Mar. 4, 2025
+2025-03-05 14:48:40,149 - INFO - Found author: The crypto market has been shaken by a series of major events, from a record-breaking $1.5 billion Bybit hack to institutional investors pulling out billions. Meanwhile, analysts predict potential rallies for AI-powered altcoins and Bitcoin as global liquidity rises. Ripple’s Chris Larsen moves millions in XRP, and JPMorgan faces a security scare. Here’s a breakdown of the top headlines.
+2025-03-05 14:48:40,222 - INFO - Found 10 paragraphs
+2025-03-05 14:48:40,222 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 4, 2025'
+2025-03-05 14:48:40,222 - INFO - Processing article: https://www.trobits.com/articles/67c721362daa709294aaeb0b
+2025-03-05 14:48:45,321 - INFO - Found title: Crypto Tsunami: The Market Dip that Shook the Digital World
+2025-03-05 14:48:45,328 - INFO - Found author: The most prominent cryptocurrency, Bitcoin (BTC), saw its value drop to $84,148.33, marking a significant decline from its previous highs. This drop in value was mirrored by popular altcoins such as Ethereum (ETH), Solana (SOL), Ripple (XRP), and Litecoin (LTC), all of which experienced notable losses. However, in a surprising twist, Cardano (ADA) emerged as a shining beacon amid the chaos, with a staggering 60% increase over the past 24 hours. The sudden surge in Cardano's value has been attributed to recent technological advancements and strategic partnerships that have bolstered investor confidence.
+2025-03-05 14:48:45,527 - INFO - Found 24 paragraphs
+2025-03-05 14:48:45,527 - INFO - Successfully scraped article: 'Crypto Tsunami: The Market Dip that Shook the Digital World'
+2025-03-05 14:48:45,528 - INFO - Processing article: https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 14:48:50,656 - INFO - Found title: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 14:48:50,664 - INFO - Found author: The Pectra upgrade is a major milestone in Ethereum's roadmap, designed to address some of the most pressing challenges faced by the network. It aims to improve transaction throughput, reduce gas fees, and enhance the overall user experience. The upgrade will also introduce new consensus mechanisms and security protocols to make the network more robust and resilient against attacks.
+2025-03-05 14:48:50,849 - INFO - Found 29 paragraphs
+2025-03-05 14:48:50,849 - INFO - Successfully scraped article: 'Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future'
+2025-03-05 14:48:50,851 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 14:48:50,972 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:48:50,973 - INFO - Preparing to send email via hidden distribution...
+2025-03-05 14:48:56,213 - ERROR - Error sending email: {'My': (553, b'5.1.3 The recipient address <My> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 00721157ae682-6fd3cbc80e8sm30457047b3.123 - gsmtp')}
+2025-03-05 14:48:56,214 - INFO - Updated sent articles list with: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 14:49:27,770 - INFO - Starting main process...
+2025-03-05 14:49:27,770 - INFO - Loaded 1 previously sent articles
+2025-03-05 14:49:27,770 - INFO - Starting article scraping process...
+2025-03-05 14:49:30,734 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:49:41,332 - INFO - Found 12 article elements
+2025-03-05 14:49:41,393 - INFO - Extracted 4 unique article links
+2025-03-05 14:49:41,393 - INFO - Processing article: https://www.trobits.com/articles/67c84dd2f22bf3228e8206c5
+2025-03-05 14:49:46,545 - INFO - Found title: Axie Infinity: The Pioneering Play-to-Earn Crypto Game
+2025-03-05 14:50:01,812 - WARNING - Could not find author for https://www.trobits.com/articles/67c84dd2f22bf3228e8206c5
+2025-03-05 14:50:01,977 - INFO - Found 22 paragraphs
+2025-03-05 14:50:01,978 - INFO - Successfully scraped article: 'Axie Infinity: The Pioneering Play-to-Earn Crypto Game'
+2025-03-05 14:50:01,978 - INFO - Processing article: https://www.trobits.com/articles/67c721362daa709294aaeb0b
+2025-03-05 14:50:07,092 - INFO - Found title: Crypto Tsunami: The Market Dip that Shook the Digital World
+2025-03-05 14:50:22,379 - WARNING - Could not find author for https://www.trobits.com/articles/67c721362daa709294aaeb0b
+2025-03-05 14:50:22,538 - INFO - Found 24 paragraphs
+2025-03-05 14:50:22,538 - INFO - Successfully scraped article: 'Crypto Tsunami: The Market Dip that Shook the Digital World'
+2025-03-05 14:50:22,538 - INFO - Processing article: https://www.trobits.com/articles/67c706b42daa709294aaeb09
+2025-03-05 14:50:27,645 - INFO - Found title: Raydium: A Deep Dive into Solana’s Premier Automated Market Maker
+2025-03-05 14:50:42,924 - WARNING - Could not find author for https://www.trobits.com/articles/67c706b42daa709294aaeb09
+2025-03-05 14:50:43,065 - INFO - Found 28 paragraphs
+2025-03-05 14:50:43,065 - INFO - Successfully scraped article: 'Raydium: A Deep Dive into Solana’s Premier Automated Market Maker'
+2025-03-05 14:50:43,065 - INFO - Processing article: https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 14:50:48,272 - INFO - Found title: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 14:51:03,554 - WARNING - Could not find author for https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 14:51:03,709 - INFO - Found 29 paragraphs
+2025-03-05 14:51:03,709 - INFO - Successfully scraped article: 'Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future'
+2025-03-05 14:51:03,710 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 14:51:03,809 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:51:03,809 - INFO - Preparing to send email via hidden distribution...
+2025-03-05 14:51:09,805 - INFO - Email sent successfully to 4 recipients
+2025-03-05 14:51:09,814 - INFO - Updated sent articles list with: Axie Infinity: The Pioneering Play-to-Earn Crypto Game
+2025-03-05 14:52:58,492 - INFO - Starting main process...
+2025-03-05 14:52:58,492 - INFO - Loaded 2 previously sent articles
+2025-03-05 14:52:58,492 - INFO - Starting article scraping process...
+2025-03-05 14:53:01,950 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:53:12,544 - INFO - Found 12 article elements
+2025-03-05 14:53:12,606 - INFO - Extracted 4 unique article links
+2025-03-05 14:53:12,606 - INFO - Processing article: https://www.trobits.com/articles/67c721362daa709294aaeb0b
+2025-03-05 14:53:17,755 - INFO - Found title: Crypto Tsunami: The Market Dip that Shook the Digital World
+2025-03-05 14:53:17,764 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:53:17,913 - INFO - Found 24 paragraphs
+2025-03-05 14:53:17,913 - INFO - Successfully scraped article: 'Crypto Tsunami: The Market Dip that Shook the Digital World'
+2025-03-05 14:53:17,914 - INFO - Processing article: https://www.trobits.com/articles/67c84dd2f22bf3228e8206c5
+2025-03-05 14:53:23,014 - INFO - Found title: Axie Infinity: The Pioneering Play-to-Earn Crypto Game
+2025-03-05 14:53:23,022 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:53:23,180 - INFO - Found 22 paragraphs
+2025-03-05 14:53:23,180 - INFO - Successfully scraped article: 'Axie Infinity: The Pioneering Play-to-Earn Crypto Game'
+2025-03-05 14:53:23,180 - INFO - Processing article: https://www.trobits.com/articles/67c708102daa709294aaeb0a
+2025-03-05 14:53:28,276 - INFO - Found title: Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring
+2025-03-05 14:53:28,282 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:53:28,356 - INFO - Found 10 paragraphs
+2025-03-05 14:53:28,357 - INFO - Successfully scraped article: 'Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring'
+2025-03-05 14:53:28,357 - INFO - Processing article: https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 14:53:33,457 - INFO - Found title: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 14:53:33,464 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:53:33,629 - INFO - Found 29 paragraphs
+2025-03-05 14:53:33,629 - INFO - Successfully scraped article: 'Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future'
+2025-03-05 14:53:33,630 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 14:53:33,711 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:53:33,712 - INFO - Preparing to send email via hidden distribution...
+2025-03-05 14:53:39,623 - INFO - Email sent successfully to 4 recipients
+2025-03-05 14:53:39,630 - INFO - Updated sent articles list with: Crypto Tsunami: The Market Dip that Shook the Digital World
+2025-03-05 14:55:15,598 - INFO - Starting main process...
+2025-03-05 14:55:15,598 - INFO - Loaded 3 previously sent articles
+2025-03-05 14:55:15,598 - INFO - Starting article scraping process...
+2025-03-05 14:55:18,044 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:55:28,716 - INFO - Found 12 article elements
+2025-03-05 14:55:28,776 - INFO - Extracted 4 unique article links
+2025-03-05 14:55:28,776 - INFO - Processing article: https://www.trobits.com/articles/67c5adfa2daa709294aaeb04
+2025-03-05 14:55:33,966 - INFO - Found title: Raise Raises $63M to Revolutionize Digital Gift Cards with Blockchain
+2025-03-05 14:55:33,980 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:55:34,217 - INFO - Found 22 paragraphs
+2025-03-05 14:55:34,217 - INFO - Successfully scraped article: 'Raise Raises $63M to Revolutionize Digital Gift Cards with Blockchain'
+2025-03-05 14:55:34,217 - INFO - Processing article: https://www.trobits.com/articles/67c706b42daa709294aaeb09
+2025-03-05 14:55:39,327 - INFO - Found title: Raydium: A Deep Dive into Solana’s Premier Automated Market Maker
+2025-03-05 14:55:39,336 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:55:39,525 - INFO - Found 28 paragraphs
+2025-03-05 14:55:39,525 - INFO - Successfully scraped article: 'Raydium: A Deep Dive into Solana’s Premier Automated Market Maker'
+2025-03-05 14:55:39,525 - INFO - Processing article: https://www.trobits.com/articles/67c84dd2f22bf3228e8206c5
+2025-03-05 14:55:44,620 - INFO - Found title: Axie Infinity: The Pioneering Play-to-Earn Crypto Game
+2025-03-05 14:55:44,625 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:55:44,736 - INFO - Found 22 paragraphs
+2025-03-05 14:55:44,736 - INFO - Successfully scraped article: 'Axie Infinity: The Pioneering Play-to-Earn Crypto Game'
+2025-03-05 14:55:44,736 - INFO - Processing article: https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 14:55:49,841 - INFO - Found title: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 14:55:49,848 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:55:49,933 - INFO - Found 14 paragraphs
+2025-03-05 14:55:49,933 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 5, 2025'
+2025-03-05 14:55:49,933 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 14:55:50,020 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:55:50,020 - INFO - Preparing to send email via hidden distribution...
+2025-03-05 14:55:55,220 - ERROR - Error sending email: SMTP.send_message() got an unexpected keyword argument 'bcc'
+2025-03-05 14:55:55,221 - INFO - Updated sent articles list with: Raise Raises $63M to Revolutionize Digital Gift Cards with Blockchain
+2025-03-05 14:57:12,075 - INFO - Starting main process...
+2025-03-05 14:57:12,075 - INFO - Loaded 4 previously sent articles
+2025-03-05 14:57:12,075 - INFO - Starting article scraping process...
+2025-03-05 14:57:14,495 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 14:57:25,483 - INFO - Found 12 article elements
+2025-03-05 14:57:25,557 - INFO - Extracted 4 unique article links
+2025-03-05 14:57:25,557 - INFO - Processing article: https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 14:57:30,712 - INFO - Found title: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 14:57:30,722 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:57:30,827 - INFO - Found 14 paragraphs
+2025-03-05 14:57:30,827 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 5, 2025'
+2025-03-05 14:57:30,827 - INFO - Processing article: https://www.trobits.com/articles/67c84f29f22bf3228e8206c6
+2025-03-05 14:57:35,945 - INFO - Found title: Trump to Host First White House Crypto Summit on March 7
+2025-03-05 14:57:35,953 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:57:36,133 - INFO - Found 18 paragraphs
+2025-03-05 14:57:36,133 - INFO - Successfully scraped article: 'Trump to Host First White House Crypto Summit on March 7'
+2025-03-05 14:57:36,133 - INFO - Processing article: https://www.trobits.com/articles/67c7055a2daa709294aaeb08
+2025-03-05 14:57:41,237 - INFO - Found title: Daily Brief with Rexannie: Mar. 4, 2025
+2025-03-05 14:57:41,243 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:57:41,296 - INFO - Found 10 paragraphs
+2025-03-05 14:57:41,297 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 4, 2025'
+2025-03-05 14:57:41,297 - INFO - Processing article: https://www.trobits.com/articles/67c5ac8e2daa709294aaeb03
+2025-03-05 14:57:46,402 - INFO - Found title: Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role
+2025-03-05 14:57:46,407 - INFO - Found author: EARN 2 BURN
+2025-03-05 14:57:46,540 - INFO - Found 25 paragraphs
+2025-03-05 14:57:46,540 - INFO - Successfully scraped article: 'Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role'
+2025-03-05 14:57:46,540 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 14:57:46,623 - INFO - Chrome WebDriver has been closed.
+2025-03-05 14:57:46,623 - INFO - Preparing to send email via hidden distribution...
+2025-03-05 14:57:52,695 - INFO - Email sent successfully to 4 recipients
+2025-03-05 14:57:52,705 - INFO - Updated sent articles list with: Trump to Host First White House Crypto Summit on March 7
+2025-03-05 15:02:19,105 - INFO - Starting main process...
+2025-03-05 15:02:19,105 - INFO - Loaded 5 previously sent articles
+2025-03-05 15:02:19,105 - INFO - Starting article scraping process...
+2025-03-05 15:02:23,149 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 15:02:33,753 - INFO - Found 12 article elements
+2025-03-05 15:02:33,839 - INFO - Extracted 4 unique article links
+2025-03-05 15:02:33,839 - INFO - Processing article: https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 15:02:38,976 - INFO - Found title: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 15:02:38,988 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:02:39,173 - INFO - Found 29 paragraphs
+2025-03-05 15:02:39,174 - INFO - Successfully scraped article: 'Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future'
+2025-03-05 15:02:39,174 - INFO - Processing article: https://www.trobits.com/articles/67c708102daa709294aaeb0a
+2025-03-05 15:02:44,278 - INFO - Found title: Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring
+2025-03-05 15:02:44,283 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:02:44,338 - INFO - Found 10 paragraphs
+2025-03-05 15:02:44,338 - INFO - Successfully scraped article: 'Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring'
+2025-03-05 15:02:44,338 - INFO - Processing article: https://www.trobits.com/articles/67c8831bf22bf3228e8206c9
+2025-03-05 15:02:49,444 - INFO - Found title: President Donald Trump to Host Groundbreaking Crypto Summit
+2025-03-05 15:02:49,453 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:02:49,661 - INFO - Found 32 paragraphs
+2025-03-05 15:02:49,661 - INFO - Successfully scraped article: 'President Donald Trump to Host Groundbreaking Crypto Summit'
+2025-03-05 15:02:49,661 - INFO - Processing article: https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 15:02:54,775 - INFO - Found title: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 15:02:54,784 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:02:54,880 - INFO - Found 14 paragraphs
+2025-03-05 15:02:54,880 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 5, 2025'
+2025-03-05 15:02:54,882 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 15:02:54,968 - INFO - Chrome WebDriver has been closed.
+2025-03-05 15:02:54,968 - INFO - Preparing to send personalized emails...
+2025-03-05 15:03:00,918 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-05 15:03:02,490 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-05 15:03:03,369 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-05 15:03:04,348 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-05 15:03:04,348 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-05 15:03:04,355 - INFO - Updated sent articles list with: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 15:06:36,533 - INFO - Starting main process...
+2025-03-05 15:06:36,533 - INFO - Loaded 6 previously sent articles
+2025-03-05 15:06:36,533 - INFO - Starting article scraping process...
+2025-03-05 15:06:38,993 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 15:06:49,952 - INFO - Found 12 article elements
+2025-03-05 15:06:50,027 - INFO - Extracted 4 unique article links
+2025-03-05 15:06:50,027 - INFO - Processing article: https://www.trobits.com/articles/67c5ab672daa709294aaeb02
+2025-03-05 15:06:55,197 - INFO - Found title: Daily Brief with Rexannie: Mar. 3, 2025
+2025-03-05 15:06:55,207 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:06:55,280 - INFO - Found 10 paragraphs
+2025-03-05 15:06:55,280 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 3, 2025'
+2025-03-05 15:06:55,280 - INFO - Processing article: https://www.trobits.com/articles/67c721362daa709294aaeb0b
+2025-03-05 15:07:00,398 - INFO - Found title: Crypto Tsunami: The Market Dip that Shook the Digital World
+2025-03-05 15:07:00,408 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:07:00,584 - INFO - Found 24 paragraphs
+2025-03-05 15:07:00,584 - INFO - Successfully scraped article: 'Crypto Tsunami: The Market Dip that Shook the Digital World'
+2025-03-05 15:07:00,584 - INFO - Processing article: https://www.trobits.com/articles/67c706b42daa709294aaeb09
+2025-03-05 15:07:05,699 - INFO - Found title: Raydium: A Deep Dive into Solana’s Premier Automated Market Maker
+2025-03-05 15:07:05,709 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:07:05,884 - INFO - Found 28 paragraphs
+2025-03-05 15:07:05,885 - INFO - Successfully scraped article: 'Raydium: A Deep Dive into Solana’s Premier Automated Market Maker'
+2025-03-05 15:07:05,885 - INFO - Processing article: https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 15:07:10,997 - INFO - Found title: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 15:07:11,003 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:07:11,086 - INFO - Found 14 paragraphs
+2025-03-05 15:07:11,087 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 5, 2025'
+2025-03-05 15:07:11,088 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 15:07:11,176 - INFO - Chrome WebDriver has been closed.
+2025-03-05 15:07:11,176 - INFO - Preparing to send personalized emails...
+2025-03-05 15:07:17,355 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-05 15:07:18,186 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-05 15:07:18,903 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-05 15:07:19,721 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-05 15:07:19,722 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-05 15:07:19,729 - INFO - Updated sent articles list with: Daily Brief with Rexannie: Mar. 3, 2025
+2025-03-05 15:22:05,622 - INFO - Starting main process...
+2025-03-05 15:22:05,622 - INFO - Loaded 7 previously sent articles
+2025-03-05 15:22:05,622 - INFO - Starting article scraping process...
+2025-03-05 15:22:17,737 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 15:22:28,350 - INFO - Found 12 article elements
+2025-03-05 15:22:28,410 - INFO - Extracted 4 unique article links
+2025-03-05 15:22:28,410 - INFO - Processing article: https://www.trobits.com/articles/67c708102daa709294aaeb0a
+2025-03-05 15:22:33,573 - INFO - Found title: Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring
+2025-03-05 15:22:33,584 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:22:33,663 - INFO - Found 10 paragraphs
+2025-03-05 15:22:33,663 - INFO - Successfully scraped article: 'Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring'
+2025-03-05 15:22:33,663 - INFO - Processing article: https://www.trobits.com/articles/67c5ac8e2daa709294aaeb03
+2025-03-05 15:22:38,779 - INFO - Found title: Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role
+2025-03-05 15:22:38,787 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:22:38,963 - INFO - Found 25 paragraphs
+2025-03-05 15:22:38,964 - INFO - Successfully scraped article: 'Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role'
+2025-03-05 15:22:38,964 - INFO - Processing article: https://www.trobits.com/articles/67c721362daa709294aaeb0b
+2025-03-05 15:22:44,070 - INFO - Found title: Crypto Tsunami: The Market Dip that Shook the Digital World
+2025-03-05 15:22:44,074 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:22:44,193 - INFO - Found 24 paragraphs
+2025-03-05 15:22:44,193 - INFO - Successfully scraped article: 'Crypto Tsunami: The Market Dip that Shook the Digital World'
+2025-03-05 15:22:44,193 - INFO - Processing article: https://www.trobits.com/articles/67c5ab672daa709294aaeb02
+2025-03-05 15:22:49,299 - INFO - Found title: Daily Brief with Rexannie: Mar. 3, 2025
+2025-03-05 15:22:49,307 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:22:49,376 - INFO - Found 10 paragraphs
+2025-03-05 15:22:49,376 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 3, 2025'
+2025-03-05 15:22:49,378 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 15:22:49,487 - INFO - Chrome WebDriver has been closed.
+2025-03-05 15:22:49,487 - INFO - Preparing to send personalized emails...
+2025-03-05 15:22:55,881 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-05 15:22:56,597 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-05 15:22:57,518 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-05 15:22:58,203 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-05 15:22:58,203 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-05 15:22:58,209 - INFO - Updated sent articles list with: Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring
+2025-03-05 15:30:27,979 - INFO - Starting main process...
+2025-03-05 15:30:27,979 - INFO - Loaded 8 previously sent articles
+2025-03-05 15:30:27,979 - INFO - Starting article scraping process...
+2025-03-05 15:30:30,660 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 15:30:41,389 - INFO - Found 12 article elements
+2025-03-05 15:30:41,455 - INFO - Extracted 4 unique article links
+2025-03-05 15:30:41,456 - INFO - Processing article: https://www.trobits.com/articles/67c708102daa709294aaeb0a
+2025-03-05 15:30:46,606 - INFO - Found title: Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring
+2025-03-05 15:30:46,616 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:30:46,709 - INFO - Found 10 paragraphs
+2025-03-05 15:30:46,709 - INFO - Successfully scraped article: 'Trump Names 5 Cryptocurrencies for National Reserve, Sending Prices Soaring'
+2025-03-05 15:30:46,709 - INFO - Processing article: https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 15:30:51,876 - INFO - Found title: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 15:30:51,883 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:30:52,037 - INFO - Found 29 paragraphs
+2025-03-05 15:30:52,037 - INFO - Successfully scraped article: 'Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future'
+2025-03-05 15:30:52,037 - INFO - Processing article: https://www.trobits.com/articles/67c852bff22bf3228e8206c7
+2025-03-05 15:30:57,137 - INFO - Found title: Daily Brief with Rexannie: Mar. 5, 2025
+2025-03-05 15:30:57,143 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:30:57,213 - INFO - Found 14 paragraphs
+2025-03-05 15:30:57,213 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 5, 2025'
+2025-03-05 15:30:57,213 - INFO - Processing article: https://www.trobits.com/articles/67c84f29f22bf3228e8206c6
+2025-03-05 15:31:02,313 - INFO - Found title: Trump to Host First White House Crypto Summit on March 7
+2025-03-05 15:31:02,322 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:31:02,435 - INFO - Found 18 paragraphs
+2025-03-05 15:31:02,435 - INFO - Successfully scraped article: 'Trump to Host First White House Crypto Summit on March 7'
+2025-03-05 15:31:02,436 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 15:31:02,522 - INFO - Chrome WebDriver has been closed.
+2025-03-05 15:31:02,522 - INFO - No new articles to send.
+2025-03-05 15:32:00,683 - INFO - Starting main process...
+2025-03-05 15:32:00,684 - INFO - Loaded 8 previously sent articles
+2025-03-05 15:32:00,684 - INFO - Starting article scraping process...
+2025-03-05 15:32:03,180 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 15:32:13,921 - INFO - Found 12 article elements
+2025-03-05 15:32:14,005 - INFO - Extracted 4 unique article links
+2025-03-05 15:32:14,005 - INFO - Processing article: https://www.trobits.com/articles/67c706b42daa709294aaeb09
+2025-03-05 15:32:19,230 - INFO - Found title: Raydium: A Deep Dive into Solana’s Premier Automated Market Maker
+2025-03-05 15:32:19,240 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:32:19,432 - INFO - Found 28 paragraphs
+2025-03-05 15:32:19,433 - INFO - Successfully scraped article: 'Raydium: A Deep Dive into Solana’s Premier Automated Market Maker'
+2025-03-05 15:32:19,433 - INFO - Processing article: https://www.trobits.com/articles/67c84dd2f22bf3228e8206c5
+2025-03-05 15:32:24,540 - INFO - Found title: Axie Infinity: The Pioneering Play-to-Earn Crypto Game
+2025-03-05 15:32:24,547 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:32:24,706 - INFO - Found 22 paragraphs
+2025-03-05 15:32:24,707 - INFO - Successfully scraped article: 'Axie Infinity: The Pioneering Play-to-Earn Crypto Game'
+2025-03-05 15:32:24,707 - INFO - Processing article: https://www.trobits.com/articles/67c5ac8e2daa709294aaeb03
+2025-03-05 15:32:29,812 - INFO - Found title: Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role
+2025-03-05 15:32:29,821 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:32:30,035 - INFO - Found 25 paragraphs
+2025-03-05 15:32:30,035 - INFO - Successfully scraped article: 'Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role'
+2025-03-05 15:32:30,035 - INFO - Processing article: https://www.trobits.com/articles/67c84f29f22bf3228e8206c6
+2025-03-05 15:32:35,134 - INFO - Found title: Trump to Host First White House Crypto Summit on March 7
+2025-03-05 15:32:35,141 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:32:35,253 - INFO - Found 18 paragraphs
+2025-03-05 15:32:35,253 - INFO - Successfully scraped article: 'Trump to Host First White House Crypto Summit on March 7'
+2025-03-05 15:32:35,253 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 15:32:35,337 - INFO - Chrome WebDriver has been closed.
+2025-03-05 15:32:35,337 - INFO - Preparing to send personalized emails...
+2025-03-05 15:32:41,258 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-05 15:32:41,934 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-05 15:32:42,767 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-05 15:32:43,473 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-05 15:32:43,473 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-05 15:32:43,480 - INFO - Updated sent articles list with: Raydium: A Deep Dive into Solana’s Premier Automated Market Maker
+2025-03-05 15:43:38,887 - INFO - Starting main process...
+2025-03-05 15:43:38,889 - INFO - Loaded 9 previously sent articles
+2025-03-05 15:43:38,889 - INFO - Starting article scraping process...
+2025-03-05 15:43:41,844 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-05 15:43:52,482 - INFO - Found 12 article elements
+2025-03-05 15:43:52,542 - INFO - Extracted 4 unique article links
+2025-03-05 15:43:52,542 - INFO - Processing article: https://www.trobits.com/articles/67c4e38a1b9f176fdb40d9bc
+2025-03-05 15:43:57,700 - INFO - Found title: Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future
+2025-03-05 15:43:57,710 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:43:57,844 - INFO - Found 29 paragraphs
+2025-03-05 15:43:57,844 - INFO - Successfully scraped article: 'Ethereum's Pectra Upgrade: A Leap Towards a Decentralized Future'
+2025-03-05 15:43:57,844 - INFO - Processing article: https://www.trobits.com/articles/67c5ac8e2daa709294aaeb03
+2025-03-05 15:44:02,953 - INFO - Found title: Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role
+2025-03-05 15:44:02,962 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:44:03,105 - INFO - Found 25 paragraphs
+2025-03-05 15:44:03,106 - INFO - Successfully scraped article: 'Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role'
+2025-03-05 15:44:03,106 - INFO - Processing article: https://www.trobits.com/articles/67c5adfa2daa709294aaeb04
+2025-03-05 15:44:08,211 - INFO - Found title: Raise Raises $63M to Revolutionize Digital Gift Cards with Blockchain
+2025-03-05 15:44:08,221 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:44:08,337 - INFO - Found 22 paragraphs
+2025-03-05 15:44:08,337 - INFO - Successfully scraped article: 'Raise Raises $63M to Revolutionize Digital Gift Cards with Blockchain'
+2025-03-05 15:44:08,337 - INFO - Processing article: https://www.trobits.com/articles/67c706b42daa709294aaeb09
+2025-03-05 15:44:13,452 - INFO - Found title: Raydium: A Deep Dive into Solana’s Premier Automated Market Maker
+2025-03-05 15:44:13,461 - INFO - Found author: EARN 2 BURN
+2025-03-05 15:44:13,603 - INFO - Found 28 paragraphs
+2025-03-05 15:44:13,603 - INFO - Successfully scraped article: 'Raydium: A Deep Dive into Solana’s Premier Automated Market Maker'
+2025-03-05 15:44:13,605 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-05 15:44:13,689 - INFO - Chrome WebDriver has been closed.
+2025-03-05 15:44:13,690 - INFO - Preparing to send personalized emails...
+2025-03-05 15:44:21,424 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-05 15:44:22,457 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-05 15:44:23,267 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-05 15:44:23,984 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-05 15:44:23,985 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-05 15:44:23,993 - INFO - Updated sent articles list with: Crypto Guru David Sacks Sells Entire Portfolio Ahead of Government Role
+2025-03-09 20:32:37,746 - INFO - Starting main process...
+2025-03-09 20:32:37,746 - INFO - Loaded 10 previously sent articles
+2025-03-09 20:32:37,746 - INFO - Starting article scraping process...
+2025-03-09 20:32:40,681 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 20:32:51,630 - INFO - Found 12 article elements
+2025-03-09 20:32:51,722 - INFO - Extracted 4 unique article links
+2025-03-09 20:32:51,722 - INFO - Processing article: https://www.trobits.com/articles/67cc53252b031f23893a0266
+2025-03-09 20:32:57,262 - INFO - Found title: Trump Establishes Bitcoin Strategic Reserve: A Game-Changer for Crypto?
+2025-03-09 20:32:57,269 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:32:57,377 - INFO - Found 13 paragraphs
+2025-03-09 20:32:57,377 - INFO - Successfully scraped article: 'Trump Establishes Bitcoin Strategic Reserve: A Game-Changer for Crypto?'
+2025-03-09 20:32:57,377 - INFO - Processing article: https://www.trobits.com/articles/67cd37e72b031f23893a0269
+2025-03-09 20:33:02,697 - INFO - Found title: BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse
+2025-03-09 20:33:02,702 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:33:02,897 - INFO - Found 31 paragraphs
+2025-03-09 20:33:02,897 - INFO - Successfully scraped article: 'BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse'
+2025-03-09 20:33:02,897 - INFO - Processing article: https://www.trobits.com/articles/67caef795c197704eaacfc8e
+2025-03-09 20:33:08,208 - INFO - Found title: Aptos: The Next Generation Blockchain Revolution
+2025-03-09 20:33:08,214 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:33:08,375 - INFO - Found 29 paragraphs
+2025-03-09 20:33:08,375 - INFO - Successfully scraped article: 'Aptos: The Next Generation Blockchain Revolution'
+2025-03-09 20:33:08,375 - INFO - Processing article: https://www.trobits.com/articles/67cd39ac2b031f23893a026a
+2025-03-09 20:33:13,679 - INFO - Found title: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 20:33:13,684 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:33:13,796 - INFO - Found 20 paragraphs
+2025-03-09 20:33:13,796 - INFO - Successfully scraped article: 'Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means'
+2025-03-09 20:33:13,797 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 20:33:13,892 - INFO - Chrome WebDriver has been closed.
+2025-03-09 20:33:13,893 - INFO - Preparing to send personalized emails...
+2025-03-09 20:33:20,495 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-09 20:33:21,579 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 20:33:22,706 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 20:33:24,138 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 20:33:24,139 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 20:33:24,165 - INFO - Updated sent articles list with: Trump Establishes Bitcoin Strategic Reserve: A Game-Changer for Crypto?
+2025-03-09 20:35:52,080 - INFO - Starting main process...
+2025-03-09 20:35:52,080 - INFO - Loaded 11 previously sent articles
+2025-03-09 20:35:52,080 - INFO - Starting article scraping process...
+2025-03-09 20:35:54,292 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 20:36:04,944 - INFO - Found 12 article elements
+2025-03-09 20:36:05,008 - INFO - Extracted 4 unique article links
+2025-03-09 20:36:05,008 - INFO - Processing article: https://www.trobits.com/articles/67cc51012b031f23893a0265
+2025-03-09 20:36:10,496 - INFO - Found title: Dohrnii (DHN): The Future of Crypto Investment and Financial Education
+2025-03-09 20:36:10,506 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:36:10,630 - INFO - Found 23 paragraphs
+2025-03-09 20:36:10,630 - INFO - Successfully scraped article: 'Dohrnii (DHN): The Future of Crypto Investment and Financial Education'
+2025-03-09 20:36:10,630 - INFO - Processing article: https://www.trobits.com/articles/67cc76ef2b031f23893a0267
+2025-03-09 20:36:15,857 - INFO - Found title: Bitcoin in the Spotlight: White House Crypto Summit Paves the Way for a New Era
+2025-03-09 20:36:15,865 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:36:15,942 - INFO - Found 13 paragraphs
+2025-03-09 20:36:15,942 - INFO - Successfully scraped article: 'Bitcoin in the Spotlight: White House Crypto Summit Paves the Way for a New Era'
+2025-03-09 20:36:15,942 - INFO - Processing article: https://www.trobits.com/articles/67cd39ac2b031f23893a026a
+2025-03-09 20:36:21,284 - INFO - Found title: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 20:36:21,294 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:36:21,424 - INFO - Found 20 paragraphs
+2025-03-09 20:36:21,425 - INFO - Successfully scraped article: 'Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means'
+2025-03-09 20:36:21,425 - INFO - Processing article: https://www.trobits.com/articles/67cd365b2b031f23893a0268
+2025-03-09 20:36:26,767 - INFO - Found title: Daily Brief with Rexannie: Mar. 9, 2025
+2025-03-09 20:36:26,776 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:36:26,836 - INFO - Found 11 paragraphs
+2025-03-09 20:36:26,836 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 9, 2025'
+2025-03-09 20:36:26,838 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 20:36:26,922 - INFO - Chrome WebDriver has been closed.
+2025-03-09 20:36:43,595 - INFO - Starting main process...
+2025-03-09 20:36:43,595 - INFO - Loaded 11 previously sent articles
+2025-03-09 20:36:43,595 - INFO - Starting article scraping process...
+2025-03-09 20:36:45,542 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 20:36:56,347 - INFO - Found 12 article elements
+2025-03-09 20:36:56,407 - INFO - Extracted 4 unique article links
+2025-03-09 20:36:56,407 - INFO - Processing article: https://www.trobits.com/articles/67caf1ab5c197704eaacfc8f
+2025-03-09 20:37:01,917 - INFO - Found title: Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration
+2025-03-09 20:37:01,926 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:37:02,045 - INFO - Found 19 paragraphs
+2025-03-09 20:37:02,045 - INFO - Successfully scraped article: 'Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration'
+2025-03-09 20:37:02,045 - INFO - Processing article: https://www.trobits.com/articles/67cc4d342b031f23893a0264
+2025-03-09 20:37:07,389 - INFO - Found title: Daily Brief with Rexannie: Mar. 8, 2025
+2025-03-09 20:37:07,397 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:37:07,458 - INFO - Found 10 paragraphs
+2025-03-09 20:37:07,458 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 8, 2025'
+2025-03-09 20:37:07,458 - INFO - Processing article: https://www.trobits.com/articles/67caecd15c197704eaacfc8c
+2025-03-09 20:37:12,674 - INFO - Found title: Daily Brief with Rexannie: Mar. 7, 2025
+2025-03-09 20:37:12,682 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:37:12,738 - INFO - Found 9 paragraphs
+2025-03-09 20:37:12,738 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 7, 2025'
+2025-03-09 20:37:12,738 - INFO - Processing article: https://www.trobits.com/articles/67caef795c197704eaacfc8e
+2025-03-09 20:37:17,950 - INFO - Found title: Aptos: The Next Generation Blockchain Revolution
+2025-03-09 20:37:17,958 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:37:18,115 - INFO - Found 29 paragraphs
+2025-03-09 20:37:18,115 - INFO - Successfully scraped article: 'Aptos: The Next Generation Blockchain Revolution'
+2025-03-09 20:37:18,115 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 20:37:18,198 - INFO - Chrome WebDriver has been closed.
+2025-03-09 20:37:18,198 - INFO - Preparing to send personalized emails...
+2025-03-09 20:37:24,732 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-09 20:37:26,217 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 20:37:27,241 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 20:37:28,563 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 20:37:28,563 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 20:37:28,572 - INFO - Updated sent articles list with: Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration
+2025-03-09 20:44:14,424 - INFO - Starting main process...
+2025-03-09 20:44:14,424 - INFO - Loaded 12 previously sent articles
+2025-03-09 20:44:14,424 - INFO - Starting article scraping process...
+2025-03-09 20:44:16,921 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 20:44:27,712 - INFO - Found 12 article elements
+2025-03-09 20:44:27,792 - INFO - Extracted 4 unique article links
+2025-03-09 20:44:27,792 - INFO - Processing article: https://www.trobits.com/articles/67caee175c197704eaacfc8d
+2025-03-09 20:44:33,077 - INFO - Found title: BTFD Coin: Merging Meme Culture, Blockchain Technology, and Investment Potential
+2025-03-09 20:44:33,087 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:44:33,226 - INFO - Found 28 paragraphs
+2025-03-09 20:44:33,226 - INFO - Successfully scraped article: 'BTFD Coin: Merging Meme Culture, Blockchain Technology, and Investment Potential'
+2025-03-09 20:44:33,226 - INFO - Processing article: https://www.trobits.com/articles/67cc51012b031f23893a0265
+2025-03-09 20:44:38,442 - INFO - Found title: Dohrnii (DHN): The Future of Crypto Investment and Financial Education
+2025-03-09 20:44:38,450 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:44:38,569 - INFO - Found 23 paragraphs
+2025-03-09 20:44:38,570 - INFO - Successfully scraped article: 'Dohrnii (DHN): The Future of Crypto Investment and Financial Education'
+2025-03-09 20:44:38,570 - INFO - Processing article: https://www.trobits.com/articles/67cd39ac2b031f23893a026a
+2025-03-09 20:44:43,905 - INFO - Found title: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 20:44:43,917 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:44:44,059 - INFO - Found 20 paragraphs
+2025-03-09 20:44:44,059 - INFO - Successfully scraped article: 'Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means'
+2025-03-09 20:44:44,060 - INFO - Processing article: https://www.trobits.com/articles/67cc4d342b031f23893a0264
+2025-03-09 20:44:49,451 - INFO - Found title: Daily Brief with Rexannie: Mar. 8, 2025
+2025-03-09 20:44:49,460 - INFO - Found author: EARN 2 BURN
+2025-03-09 20:44:49,532 - INFO - Found 10 paragraphs
+2025-03-09 20:44:49,532 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 8, 2025'
+2025-03-09 20:44:49,534 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 20:44:49,623 - INFO - Chrome WebDriver has been closed.
+2025-03-09 20:44:49,623 - INFO - Preparing to send personalized emails...
+2025-03-09 20:44:56,076 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-09 20:44:57,220 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 20:44:57,926 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 20:44:59,355 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 20:44:59,356 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 20:44:59,364 - INFO - Updated sent articles list with: BTFD Coin: Merging Meme Culture, Blockchain Technology, and Investment Potential
+2025-03-09 21:29:38,227 - INFO - Starting main process...
+2025-03-09 21:29:38,227 - INFO - Loaded 13 previously sent articles
+2025-03-09 21:29:38,227 - INFO - Starting article scraping process...
+2025-03-09 21:29:40,825 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 21:29:51,837 - INFO - Found 12 article elements
+2025-03-09 21:29:51,908 - INFO - Extracted 4 unique article links
+2025-03-09 21:29:51,908 - INFO - Processing article: https://www.trobits.com/articles/67cd37e72b031f23893a0269
+2025-03-09 21:29:57,239 - INFO - Found title: BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse
+2025-03-09 21:29:57,248 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:29:57,406 - INFO - Found 31 paragraphs
+2025-03-09 21:29:57,406 - INFO - Successfully scraped article: 'BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse'
+2025-03-09 21:29:57,406 - INFO - Processing article: https://www.trobits.com/articles/67cc51012b031f23893a0265
+2025-03-09 21:30:02,615 - INFO - Found title: Dohrnii (DHN): The Future of Crypto Investment and Financial Education
+2025-03-09 21:30:02,623 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:30:02,741 - INFO - Found 23 paragraphs
+2025-03-09 21:30:02,741 - INFO - Successfully scraped article: 'Dohrnii (DHN): The Future of Crypto Investment and Financial Education'
+2025-03-09 21:30:02,741 - INFO - Processing article: https://www.trobits.com/articles/67caef795c197704eaacfc8e
+2025-03-09 21:30:07,984 - INFO - Found title: Aptos: The Next Generation Blockchain Revolution
+2025-03-09 21:30:07,991 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:30:08,138 - INFO - Found 29 paragraphs
+2025-03-09 21:30:08,138 - INFO - Successfully scraped article: 'Aptos: The Next Generation Blockchain Revolution'
+2025-03-09 21:30:08,138 - INFO - Processing article: https://www.trobits.com/articles/67caf1ab5c197704eaacfc8f
+2025-03-09 21:30:13,445 - INFO - Found title: Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration
+2025-03-09 21:30:13,454 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:30:13,554 - INFO - Found 19 paragraphs
+2025-03-09 21:30:13,554 - INFO - Successfully scraped article: 'Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration'
+2025-03-09 21:30:13,555 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 21:30:13,638 - INFO - Chrome WebDriver has been closed.
+2025-03-09 21:30:13,638 - INFO - Preparing to send personalized emails...
+2025-03-09 21:30:19,771 - INFO - Personalized email sent to managingpartners@datajungle.ai
+2025-03-09 21:30:20,846 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 21:30:21,536 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 21:30:22,382 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 21:30:22,382 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 21:30:22,389 - INFO - Updated sent articles list with: BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse
+2025-03-09 21:31:37,238 - INFO - Starting main process...
+2025-03-09 21:31:37,238 - INFO - Loaded 14 previously sent articles
+2025-03-09 21:31:37,238 - INFO - Starting article scraping process...
+2025-03-09 21:31:40,262 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 21:31:51,073 - INFO - Found 12 article elements
+2025-03-09 21:31:51,170 - INFO - Extracted 4 unique article links
+2025-03-09 21:31:51,170 - INFO - Processing article: https://www.trobits.com/articles/67cd39ac2b031f23893a026a
+2025-03-09 21:31:56,668 - INFO - Found title: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 21:31:56,679 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:31:56,834 - INFO - Found 20 paragraphs
+2025-03-09 21:31:56,834 - INFO - Successfully scraped article: 'Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means'
+2025-03-09 21:31:56,834 - INFO - Processing article: https://www.trobits.com/articles/67cc53252b031f23893a0266
+2025-03-09 21:32:02,107 - INFO - Found title: Trump Establishes Bitcoin Strategic Reserve: A Game-Changer for Crypto?
+2025-03-09 21:32:02,115 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:32:02,184 - INFO - Found 13 paragraphs
+2025-03-09 21:32:02,184 - INFO - Successfully scraped article: 'Trump Establishes Bitcoin Strategic Reserve: A Game-Changer for Crypto?'
+2025-03-09 21:32:02,184 - INFO - Processing article: https://www.trobits.com/articles/67cc51012b031f23893a0265
+2025-03-09 21:32:07,399 - INFO - Found title: Dohrnii (DHN): The Future of Crypto Investment and Financial Education
+2025-03-09 21:32:07,408 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:32:07,566 - INFO - Found 23 paragraphs
+2025-03-09 21:32:07,566 - INFO - Successfully scraped article: 'Dohrnii (DHN): The Future of Crypto Investment and Financial Education'
+2025-03-09 21:32:07,566 - INFO - Processing article: https://www.trobits.com/articles/67cc76ef2b031f23893a0267
+2025-03-09 21:32:12,815 - INFO - Found title: Bitcoin in the Spotlight: White House Crypto Summit Paves the Way for a New Era
+2025-03-09 21:32:12,824 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:32:12,923 - INFO - Found 13 paragraphs
+2025-03-09 21:32:12,923 - INFO - Successfully scraped article: 'Bitcoin in the Spotlight: White House Crypto Summit Paves the Way for a New Era'
+2025-03-09 21:32:12,924 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 21:32:13,012 - INFO - Chrome WebDriver has been closed.
+2025-03-09 21:32:13,012 - INFO - Preparing to send personalized emails...
+2025-03-09 21:32:19,018 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-09 21:32:19,850 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 21:32:20,592 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 21:32:21,475 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 21:32:21,475 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 21:32:21,484 - INFO - Updated sent articles list with: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 21:42:49,477 - INFO - Starting main process...
+2025-03-09 21:42:49,477 - INFO - Loaded 9 previously sent articles
+2025-03-09 21:42:49,477 - INFO - Starting article scraping process...
+2025-03-09 21:42:51,634 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 21:43:02,535 - INFO - Found 12 article elements
+2025-03-09 21:43:02,607 - INFO - Extracted 4 unique article links
+2025-03-09 21:43:02,607 - INFO - Processing article: https://www.trobits.com/articles/67cd37e72b031f23893a0269
+2025-03-09 21:43:07,881 - INFO - Found title: BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse
+2025-03-09 21:43:07,892 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:43:08,079 - INFO - Found 31 paragraphs
+2025-03-09 21:43:08,080 - INFO - Successfully scraped article: 'BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse'
+2025-03-09 21:43:08,080 - INFO - Processing article: https://www.trobits.com/articles/67cd39ac2b031f23893a026a
+2025-03-09 21:43:13,338 - INFO - Found title: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 21:43:13,346 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:43:13,476 - INFO - Found 20 paragraphs
+2025-03-09 21:43:13,476 - INFO - Successfully scraped article: 'Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means'
+2025-03-09 21:43:13,476 - INFO - Processing article: https://www.trobits.com/articles/67caf1ab5c197704eaacfc8f
+2025-03-09 21:43:18,766 - INFO - Found title: Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration
+2025-03-09 21:43:18,775 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:43:18,896 - INFO - Found 19 paragraphs
+2025-03-09 21:43:18,896 - INFO - Successfully scraped article: 'Pakistan Appoints Bilal Bin Saqib to Lead Crypto and Blockchain Integration'
+2025-03-09 21:43:18,896 - INFO - Processing article: https://www.trobits.com/articles/67caef795c197704eaacfc8e
+2025-03-09 21:43:24,134 - INFO - Found title: Aptos: The Next Generation Blockchain Revolution
+2025-03-09 21:43:24,144 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:43:24,328 - INFO - Found 29 paragraphs
+2025-03-09 21:43:24,329 - INFO - Successfully scraped article: 'Aptos: The Next Generation Blockchain Revolution'
+2025-03-09 21:43:24,329 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 21:43:24,417 - INFO - Chrome WebDriver has been closed.
+2025-03-09 21:43:24,417 - INFO - Preparing to send personalized emails...
+2025-03-09 21:43:30,625 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-09 21:43:31,293 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 21:43:32,339 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 21:43:33,080 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 21:43:33,081 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 21:43:33,091 - INFO - Updated sent articles list with: BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse
+2025-03-09 21:44:39,529 - INFO - Starting main process...
+2025-03-09 21:44:39,530 - INFO - Loaded 10 previously sent articles
+2025-03-09 21:44:39,530 - INFO - Starting article scraping process...
+2025-03-09 21:44:41,861 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-09 21:44:53,102 - INFO - Found 12 article elements
+2025-03-09 21:44:53,176 - INFO - Extracted 4 unique article links
+2025-03-09 21:44:53,176 - INFO - Processing article: https://www.trobits.com/articles/67caef795c197704eaacfc8e
+2025-03-09 21:44:58,479 - INFO - Found title: Aptos: The Next Generation Blockchain Revolution
+2025-03-09 21:44:58,491 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:44:58,681 - INFO - Found 29 paragraphs
+2025-03-09 21:44:58,681 - INFO - Successfully scraped article: 'Aptos: The Next Generation Blockchain Revolution'
+2025-03-09 21:44:58,681 - INFO - Processing article: https://www.trobits.com/articles/67cd39ac2b031f23893a026a
+2025-03-09 21:45:04,084 - INFO - Found title: Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means
+2025-03-09 21:45:04,094 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:45:04,233 - INFO - Found 20 paragraphs
+2025-03-09 21:45:04,233 - INFO - Successfully scraped article: 'Cardano’s Charles Hoskinson Excluded from White House Crypto Summit – What It Means'
+2025-03-09 21:45:04,233 - INFO - Processing article: https://www.trobits.com/articles/67cd37e72b031f23893a0269
+2025-03-09 21:45:09,489 - INFO - Found title: BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse
+2025-03-09 21:45:09,498 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:45:09,658 - INFO - Found 31 paragraphs
+2025-03-09 21:45:09,658 - INFO - Successfully scraped article: 'BinaryX: A Comprehensive Look at the Blockchain Gaming Powerhouse'
+2025-03-09 21:45:09,658 - INFO - Processing article: https://www.trobits.com/articles/67c9c19e5c197704eaacfc87
+2025-03-09 21:45:14,899 - INFO - Found title: FloppyPepe (FPPE): The AI-Powered Meme Token Revolutionizing Crypto
+2025-03-09 21:45:14,908 - INFO - Found author: EARN 2 BURN
+2025-03-09 21:45:15,099 - INFO - Found 36 paragraphs
+2025-03-09 21:45:15,099 - INFO - Successfully scraped article: 'FloppyPepe (FPPE): The AI-Powered Meme Token Revolutionizing Crypto'
+2025-03-09 21:45:15,099 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-09 21:45:15,180 - INFO - Chrome WebDriver has been closed.
+2025-03-09 21:45:15,181 - INFO - Preparing to send personalized emails...
+2025-03-09 21:45:21,360 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-09 21:45:22,361 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-09 21:45:23,327 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-09 21:45:24,057 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-09 21:45:24,057 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-09 21:45:24,065 - INFO - Updated sent articles list with: Aptos: The Next Generation Blockchain Revolution
+2025-03-15 20:20:07,025 - INFO - Starting main process...
+2025-03-15 20:20:07,025 - INFO - Loaded 11 previously sent articles
+2025-03-15 20:20:07,025 - INFO - Starting article scraping process...
+2025-03-15 20:20:15,461 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:20:27,415 - INFO - Found 23 article elements
+2025-03-15 20:20:27,562 - INFO - Extracted 4 unique article links
+2025-03-15 20:20:27,562 - INFO - Processing article: https://www.trobits.com/articles/67d413a9898d73565bb803a7
+2025-03-15 20:20:33,910 - INFO - Found title: The Future of Decentralized Computing: Understanding Golem (GLM)
+2025-03-15 20:20:33,921 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:20:34,111 - INFO - Found 31 paragraphs
+2025-03-15 20:20:34,111 - INFO - Successfully scraped article: 'The Future of Decentralized Computing: Understanding Golem (GLM)'
+2025-03-15 20:20:34,111 - INFO - Processing article: https://www.trobits.com/articles/67d2c45afb8966720e68eee1
+2025-03-15 20:20:39,736 - INFO - Found title: Daily Brief with Rexannie: Mar. 13, 2025
+2025-03-15 20:20:39,746 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:20:39,815 - INFO - Found 10 paragraphs
+2025-03-15 20:20:39,815 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 13, 2025'
+2025-03-15 20:20:39,815 - INFO - Processing article: https://www.trobits.com/articles/67d2c343fb8966720e68eee0
+2025-03-15 20:20:45,526 - INFO - Found title: BitTorrent Coin (BTT): A Game Changer in Decentralized File Sharing
+2025-03-15 20:20:45,533 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:20:45,875 - INFO - Found 28 paragraphs
+2025-03-15 20:20:45,876 - INFO - Successfully scraped article: 'BitTorrent Coin (BTT): A Game Changer in Decentralized File Sharing'
+2025-03-15 20:20:45,876 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-15 20:20:51,313 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-15 20:20:51,322 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:20:51,552 - INFO - Found 39 paragraphs
+2025-03-15 20:20:51,552 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-15 20:20:51,553 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:20:51,636 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:20:51,637 - INFO - Preparing to send personalized emails...
+2025-03-15 20:20:58,112 - ERROR - Error in email sending process: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 3f1490d57ef6-e63e541e466sm1562151276.20 - gsmtp')
+2025-03-15 20:20:58,113 - INFO - Updated sent articles list with: The Future of Decentralized Computing: Understanding Golem (GLM)
+2025-03-15 20:23:21,872 - INFO - Starting main process...
+2025-03-15 20:23:21,873 - INFO - Loaded 12 previously sent articles
+2025-03-15 20:23:21,873 - INFO - Starting article scraping process...
+2025-03-15 20:23:24,513 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:23:34,928 - INFO - Found 23 article elements
+2025-03-15 20:23:35,054 - INFO - Extracted 4 unique article links
+2025-03-15 20:23:35,054 - INFO - Processing article: https://www.trobits.com/articles/67d1761efb8966720e68eed9
+2025-03-15 20:23:40,582 - INFO - Found title: Qubetics: Pioneering a New Era in Blockchain Development
+2025-03-15 20:23:40,592 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:23:40,726 - INFO - Found 21 paragraphs
+2025-03-15 20:23:40,726 - INFO - Successfully scraped article: 'Qubetics: Pioneering a New Era in Blockchain Development'
+2025-03-15 20:23:40,726 - INFO - Processing article: https://www.trobits.com/articles/67d2c343fb8966720e68eee0
+2025-03-15 20:23:46,155 - INFO - Found title: BitTorrent Coin (BTT): A Game Changer in Decentralized File Sharing
+2025-03-15 20:23:46,160 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:23:46,314 - INFO - Found 28 paragraphs
+2025-03-15 20:23:46,315 - INFO - Successfully scraped article: 'BitTorrent Coin (BTT): A Game Changer in Decentralized File Sharing'
+2025-03-15 20:23:46,315 - INFO - Processing article: https://www.trobits.com/articles/67d411e8898d73565bb803a6
+2025-03-15 20:23:51,958 - INFO - Found title: Daily Brief with Rexannie: Mar. 14, 2025
+2025-03-15 20:23:51,967 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:23:52,034 - INFO - Found 10 paragraphs
+2025-03-15 20:23:52,035 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 14, 2025'
+2025-03-15 20:23:52,035 - INFO - Processing article: https://www.trobits.com/articles/67d024a19bde9b20ef24f391
+2025-03-15 20:23:57,472 - INFO - Found title: Volatility Strikes Again: A Deep Dive into the Crypto Liquidations
+2025-03-15 20:23:57,481 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:23:57,600 - INFO - Found 20 paragraphs
+2025-03-15 20:23:57,600 - INFO - Successfully scraped article: 'Volatility Strikes Again: A Deep Dive into the Crypto Liquidations'
+2025-03-15 20:23:57,602 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:23:57,687 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:23:57,687 - INFO - Preparing to send personalized emails...
+2025-03-15 20:24:05,142 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:24:07,216 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:24:09,060 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:24:10,521 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:24:10,524 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:24:10,579 - INFO - Updated sent articles list with: Qubetics: Pioneering a New Era in Blockchain Development
+2025-03-15 20:27:47,287 - INFO - Starting main process...
+2025-03-15 20:27:47,287 - INFO - Loaded 13 previously sent articles
+2025-03-15 20:27:47,287 - INFO - Starting article scraping process...
+2025-03-15 20:27:49,696 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:28:01,079 - INFO - Found 23 article elements
+2025-03-15 20:28:01,268 - INFO - Extracted 4 unique article links
+2025-03-15 20:28:01,268 - INFO - Processing article: https://www.trobits.com/articles/67d179f5fb8966720e68eedc
+2025-03-15 20:28:07,076 - INFO - Found title: Swiss National Bank Rejects Bitcoin as Reserve Asset over Stability Concerns
+2025-03-15 20:28:07,088 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:28:07,236 - INFO - Found 20 paragraphs
+2025-03-15 20:28:07,236 - INFO - Successfully scraped article: 'Swiss National Bank Rejects Bitcoin as Reserve Asset over Stability Concerns'
+2025-03-15 20:28:07,236 - INFO - Processing article: https://www.trobits.com/articles/67d41587898d73565bb803a9
+2025-03-15 20:28:12,757 - INFO - Found title: GrokCoin Hits $20M Market Cap in Just One Hour
+2025-03-15 20:28:12,764 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:28:12,826 - INFO - Found 9 paragraphs
+2025-03-15 20:28:12,826 - INFO - Successfully scraped article: 'GrokCoin Hits $20M Market Cap in Just One Hour'
+2025-03-15 20:28:12,826 - INFO - Processing article: https://www.trobits.com/articles/67cedcfc9bde9b20ef24f388
+2025-03-15 20:28:18,496 - INFO - Found title: Daily Brief with Rexannie: Mar. 10, 2025
+2025-03-15 20:28:18,502 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:28:18,559 - INFO - Found 10 paragraphs
+2025-03-15 20:28:18,560 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 10, 2025'
+2025-03-15 20:28:18,560 - INFO - Processing article: https://www.trobits.com/articles/67d17883fb8966720e68eedb
+2025-03-15 20:28:24,134 - INFO - Found title: Daily Brief with Rexannie: Mar. 12, 2025
+2025-03-15 20:28:24,139 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:28:24,263 - INFO - Found 10 paragraphs
+2025-03-15 20:28:24,264 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 12, 2025'
+2025-03-15 20:28:24,264 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:28:24,351 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:28:24,351 - INFO - Preparing to send personalized emails...
+2025-03-15 20:28:31,713 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:28:33,560 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:28:35,523 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:28:37,574 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:28:37,574 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:28:37,711 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 20:33:53,693 - INFO - Starting main process...
+2025-03-15 20:33:53,694 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:33:53,694 - INFO - Starting article scraping process...
+2025-03-15 20:33:56,431 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:34:08,776 - INFO - Found 23 article elements
+2025-03-15 20:34:08,902 - INFO - Extracted 4 unique article links
+2025-03-15 20:34:08,902 - INFO - Processing article: https://www.trobits.com/articles/67d2c45afb8966720e68eee1
+2025-03-15 20:34:14,945 - INFO - Found title: Daily Brief with Rexannie: Mar. 13, 2025
+2025-03-15 20:34:14,956 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:34:15,019 - INFO - Found 10 paragraphs
+2025-03-15 20:34:15,019 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 13, 2025'
+2025-03-15 20:34:15,019 - INFO - Processing article: https://www.trobits.com/articles/67d177abfb8966720e68eeda
+2025-03-15 20:34:20,417 - INFO - Found title: Hedera (HBAR): The Future of Decentralized Networks?
+2025-03-15 20:34:20,422 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:34:20,576 - INFO - Found 28 paragraphs
+2025-03-15 20:34:20,576 - INFO - Successfully scraped article: 'Hedera (HBAR): The Future of Decentralized Networks?'
+2025-03-15 20:34:20,576 - INFO - Processing article: https://www.trobits.com/articles/67d024a19bde9b20ef24f391
+2025-03-15 20:34:25,988 - INFO - Found title: Volatility Strikes Again: A Deep Dive into the Crypto Liquidations
+2025-03-15 20:34:25,993 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:34:26,099 - INFO - Found 20 paragraphs
+2025-03-15 20:34:26,099 - INFO - Successfully scraped article: 'Volatility Strikes Again: A Deep Dive into the Crypto Liquidations'
+2025-03-15 20:34:26,099 - INFO - Processing article: https://www.trobits.com/articles/67d026519bde9b20ef24f392
+2025-03-15 20:34:31,479 - INFO - Found title: Pi Network (PI) – The Future of Decentralized Digital Currency?
+2025-03-15 20:34:31,489 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:34:31,638 - INFO - Found 25 paragraphs
+2025-03-15 20:34:31,638 - INFO - Successfully scraped article: 'Pi Network (PI) – The Future of Decentralized Digital Currency?'
+2025-03-15 20:34:31,639 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:34:31,724 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:34:31,724 - INFO - Preparing to send personalized emails...
+2025-03-15 20:34:39,339 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:34:41,476 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:34:43,526 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:34:45,572 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:34:45,572 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:34:45,629 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 20:37:06,130 - INFO - Starting main process...
+2025-03-15 20:37:06,131 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:37:06,131 - INFO - Starting article scraping process...
+2025-03-15 20:37:08,661 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:37:40,209 - INFO - Starting main process...
+2025-03-15 20:37:40,209 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:37:40,209 - INFO - Starting article scraping process...
+2025-03-15 20:37:42,445 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:37:54,217 - INFO - Found 23 article elements
+2025-03-15 20:37:54,392 - INFO - Extracted 4 unique article links
+2025-03-15 20:37:54,392 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-15 20:37:59,900 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-15 20:37:59,909 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:38:00,142 - INFO - Found 39 paragraphs
+2025-03-15 20:38:00,143 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-15 20:38:00,143 - INFO - Processing article: https://www.trobits.com/articles/67d414a9898d73565bb803a8
+2025-03-15 20:38:05,621 - INFO - Found title: Crypto Conspiracies: From Cardano’s Tylenol Tale to Bitcoin’s CIA Origins
+2025-03-15 20:38:05,629 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:38:05,850 - INFO - Found 37 paragraphs
+2025-03-15 20:38:05,850 - INFO - Successfully scraped article: 'Crypto Conspiracies: From Cardano’s Tylenol Tale to Bitcoin’s CIA Origins'
+2025-03-15 20:38:05,850 - INFO - Processing article: https://www.trobits.com/articles/67d177abfb8966720e68eeda
+2025-03-15 20:38:11,216 - INFO - Found title: Hedera (HBAR): The Future of Decentralized Networks?
+2025-03-15 20:38:11,226 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:38:11,407 - INFO - Found 28 paragraphs
+2025-03-15 20:38:11,408 - INFO - Successfully scraped article: 'Hedera (HBAR): The Future of Decentralized Networks?'
+2025-03-15 20:38:11,408 - INFO - Processing article: https://www.trobits.com/articles/67d2c5d3fb8966720e68eee2
+2025-03-15 20:38:16,879 - INFO - Found title: GoPlus Security Investigates GPS Token’s 60% Plunge After Binance Listing
+2025-03-15 20:38:16,885 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:38:16,950 - INFO - Found 11 paragraphs
+2025-03-15 20:38:16,950 - INFO - Successfully scraped article: 'GoPlus Security Investigates GPS Token’s 60% Plunge After Binance Listing'
+2025-03-15 20:38:16,951 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:38:17,040 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:38:17,041 - INFO - Preparing to send personalized emails...
+2025-03-15 20:38:24,725 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:38:26,500 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:38:28,315 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:38:29,740 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:38:29,740 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:38:29,787 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 20:39:36,600 - INFO - Starting main process...
+2025-03-15 20:39:36,601 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:39:36,601 - INFO - Starting article scraping process...
+2025-03-15 20:39:38,707 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:39:49,993 - INFO - Found 23 article elements
+2025-03-15 20:39:50,115 - INFO - Extracted 4 unique article links
+2025-03-15 20:39:50,115 - INFO - Processing article: https://www.trobits.com/articles/67d023919bde9b20ef24f390
+2025-03-15 20:39:56,182 - INFO - Found title: Daily Brief with Rexannie: Mar. 11, 2025
+2025-03-15 20:39:56,191 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:39:56,261 - INFO - Found 10 paragraphs
+2025-03-15 20:39:56,261 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 11, 2025'
+2025-03-15 20:39:56,261 - INFO - Processing article: https://www.trobits.com/articles/67d177abfb8966720e68eeda
+2025-03-15 20:40:01,608 - INFO - Found title: Hedera (HBAR): The Future of Decentralized Networks?
+2025-03-15 20:40:01,617 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:40:01,802 - INFO - Found 28 paragraphs
+2025-03-15 20:40:01,802 - INFO - Successfully scraped article: 'Hedera (HBAR): The Future of Decentralized Networks?'
+2025-03-15 20:40:01,802 - INFO - Processing article: https://www.trobits.com/articles/67d414a9898d73565bb803a8
+2025-03-15 20:40:07,270 - INFO - Found title: Crypto Conspiracies: From Cardano’s Tylenol Tale to Bitcoin’s CIA Origins
+2025-03-15 20:40:07,279 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:40:07,493 - INFO - Found 37 paragraphs
+2025-03-15 20:40:07,493 - INFO - Successfully scraped article: 'Crypto Conspiracies: From Cardano’s Tylenol Tale to Bitcoin’s CIA Origins'
+2025-03-15 20:40:07,493 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-15 20:40:12,813 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-15 20:40:12,818 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:40:13,002 - INFO - Found 33 paragraphs
+2025-03-15 20:40:13,003 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-15 20:40:13,003 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:40:13,085 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:40:13,085 - INFO - Preparing to send personalized emails...
+2025-03-15 20:40:19,925 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:40:21,686 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:40:23,717 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:40:25,090 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:40:25,090 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:40:25,150 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 20:44:16,140 - INFO - Starting main process...
+2025-03-15 20:44:16,141 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:44:16,141 - INFO - Starting article scraping process...
+2025-03-15 20:44:18,487 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:44:30,018 - INFO - Found 23 article elements
+2025-03-15 20:44:30,168 - INFO - Extracted 4 unique article links
+2025-03-15 20:44:30,168 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-15 20:44:36,112 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-15 20:44:36,129 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:44:36,307 - INFO - Found 13 paragraphs
+2025-03-15 20:44:36,307 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-15 20:44:36,307 - INFO - Processing article: https://www.trobits.com/articles/67d024a19bde9b20ef24f391
+2025-03-15 20:44:41,743 - INFO - Found title: Volatility Strikes Again: A Deep Dive into the Crypto Liquidations
+2025-03-15 20:44:41,751 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:44:41,892 - INFO - Found 20 paragraphs
+2025-03-15 20:44:41,892 - INFO - Successfully scraped article: 'Volatility Strikes Again: A Deep Dive into the Crypto Liquidations'
+2025-03-15 20:44:41,892 - INFO - Processing article: https://www.trobits.com/articles/67cedf6f9bde9b20ef24f389
+2025-03-15 20:44:47,345 - INFO - Found title: Top Crypto Wallets for 2025: The Future of Financial Management
+2025-03-15 20:44:47,352 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:44:47,629 - INFO - Found 55 paragraphs
+2025-03-15 20:44:47,629 - INFO - Successfully scraped article: 'Top Crypto Wallets for 2025: The Future of Financial Management'
+2025-03-15 20:44:47,629 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-15 20:44:53,213 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-15 20:44:53,220 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:44:53,273 - INFO - Found 10 paragraphs
+2025-03-15 20:44:53,273 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-15 20:44:53,275 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:44:53,361 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:44:53,362 - INFO - Preparing to send personalized emails...
+2025-03-15 20:45:01,445 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:45:04,288 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:45:07,811 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:45:10,125 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:45:10,125 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:45:10,211 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 20:47:03,446 - INFO - Starting main process...
+2025-03-15 20:47:03,446 - INFO - Loaded 4 previously sent articles
+2025-03-15 20:47:03,446 - INFO - Starting article scraping process...
+2025-03-15 20:47:05,918 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:47:17,979 - INFO - Found 23 article elements
+2025-03-15 20:47:18,107 - INFO - Extracted 4 unique article links
+2025-03-15 20:47:18,107 - INFO - Processing article: https://www.trobits.com/articles/67d179f5fb8966720e68eedc
+2025-03-15 20:47:24,647 - INFO - Found title: Swiss National Bank Rejects Bitcoin as Reserve Asset over Stability Concerns
+2025-03-15 20:47:24,652 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:47:24,756 - INFO - Found 20 paragraphs
+2025-03-15 20:47:24,756 - INFO - Successfully scraped article: 'Swiss National Bank Rejects Bitcoin as Reserve Asset over Stability Concerns'
+2025-03-15 20:47:24,756 - INFO - Processing article: https://www.trobits.com/articles/67d17883fb8966720e68eedb
+2025-03-15 20:47:30,393 - INFO - Found title: Daily Brief with Rexannie: Mar. 12, 2025
+2025-03-15 20:47:30,400 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:47:30,463 - INFO - Found 10 paragraphs
+2025-03-15 20:47:30,463 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 12, 2025'
+2025-03-15 20:47:30,463 - INFO - Processing article: https://www.trobits.com/articles/67d2c5d3fb8966720e68eee2
+2025-03-15 20:47:36,098 - INFO - Found title: GoPlus Security Investigates GPS Token’s 60% Plunge After Binance Listing
+2025-03-15 20:47:36,106 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:47:36,167 - INFO - Found 11 paragraphs
+2025-03-15 20:47:36,167 - INFO - Successfully scraped article: 'GoPlus Security Investigates GPS Token’s 60% Plunge After Binance Listing'
+2025-03-15 20:47:36,167 - INFO - Processing article: https://www.trobits.com/articles/67d027f89bde9b20ef24f393
+2025-03-15 20:47:41,654 - INFO - Found title: Kyrgyzstan Bets on a Gold-Backed Stablecoin to Lead the Digital Currency Race
+2025-03-15 20:47:41,663 - INFO - Found author: EARN 2 BURN
+2025-03-15 20:47:41,737 - INFO - Found 14 paragraphs
+2025-03-15 20:47:41,738 - INFO - Successfully scraped article: 'Kyrgyzstan Bets on a Gold-Backed Stablecoin to Lead the Digital Currency Race'
+2025-03-15 20:47:41,739 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 20:47:41,823 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:47:41,824 - INFO - Preparing to send personalized emails...
+2025-03-15 20:47:49,324 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 20:47:51,559 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 20:47:53,861 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 20:47:55,784 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 20:47:55,784 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 20:47:55,830 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 20:51:41,742 - INFO - Starting main process...
+2025-03-15 20:51:41,742 - INFO - Loaded 8 previously sent articles
+2025-03-15 20:51:41,742 - INFO - Starting article scraping process...
+2025-03-15 20:51:44,067 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:52:25,693 - ERROR - Error processing articles: Message: 
+
+2025-03-15 20:52:25,779 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:52:25,779 - WARNING - No articles found during scraping.
+2025-03-15 20:53:23,578 - INFO - Starting main process...
+2025-03-15 20:53:23,579 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:53:23,579 - INFO - Starting article scraping process...
+2025-03-15 20:53:26,091 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:54:07,801 - ERROR - Error processing articles: Message: 
+
+2025-03-15 20:54:07,887 - INFO - Chrome WebDriver has been closed.
+2025-03-15 20:54:07,887 - INFO - No articles found during scraping.
+2025-03-15 20:54:47,592 - INFO - Starting main process...
+2025-03-15 20:54:47,592 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:54:47,592 - INFO - Starting article scraping process...
+2025-03-15 20:54:50,117 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:55:32,910 - ERROR - Error finding articles: Message: 
+
+2025-03-15 20:55:33,012 - INFO - Chrome WebDriver closed
+2025-03-15 20:55:33,012 - INFO - No articles found during scraping.
+2025-03-15 20:56:10,753 - INFO - Starting main process...
+2025-03-15 20:56:10,754 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:56:10,754 - INFO - Starting article scraping process...
+2025-03-15 20:56:13,022 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:57:14,961 - ERROR - Error finding articles: Message: 
+
+2025-03-15 20:57:15,049 - INFO - Chrome WebDriver closed
+2025-03-15 20:57:15,049 - INFO - No articles found during scraping.
+2025-03-15 20:58:23,766 - INFO - Starting main process...
+2025-03-15 20:58:23,767 - INFO - Loaded 0 previously sent articles
+2025-03-15 20:58:23,767 - INFO - Starting article scraping process...
+2025-03-15 20:58:26,441 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 20:59:33,503 - ERROR - Error finding articles: Message: 
+
+2025-03-15 20:59:33,588 - INFO - Chrome WebDriver closed
+2025-03-15 20:59:33,588 - INFO - No articles found during scraping.
+2025-03-15 21:00:59,656 - INFO - Starting main process...
+2025-03-15 21:00:59,657 - INFO - Loaded 0 previously sent articles
+2025-03-15 21:00:59,657 - INFO - Starting article scraping process...
+2025-03-15 21:00:59,657 - INFO - Initializing Chrome WebDriver...
+2025-03-15 21:01:03,502 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 21:01:05,340 - INFO - Page loaded, waiting for content...
+2025-03-15 21:01:20,346 - INFO - Scrolling page to trigger dynamic content...
+2025-03-15 21:01:25,356 - INFO - Searching for article elements...
+2025-03-15 21:01:25,359 - ERROR - Error finding articles: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+0   chromedriver                        0x0000000102d2d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102d25ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102879ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102853a78 chromedriver + 129656
+4   chromedriver                        0x00000001028e9498 cxxbridge1$string$len + 549104
+5   chromedriver                        0x0000000102902178 cxxbridge1$string$len + 650704
+6   chromedriver                        0x00000001028b535c cxxbridge1$string$len + 335796
+7   chromedriver                        0x0000000102cf2cd4 cxxbridge1$str$ptr + 2545532
+8   chromedriver                        0x0000000102cf5fa0 cxxbridge1$str$ptr + 2558536
+9   chromedriver                        0x0000000102cd2d04 cxxbridge1$str$ptr + 2414508
+10  chromedriver                        0x0000000102cf6800 cxxbridge1$str$ptr + 2560680
+11  chromedriver                        0x0000000102cc3ba0 cxxbridge1$str$ptr + 2352712
+12  chromedriver                        0x0000000102d1645c cxxbridge1$str$ptr + 2690820
+13  chromedriver                        0x0000000102d165e4 cxxbridge1$str$ptr + 2691212
+14  chromedriver                        0x0000000102d25a50 cxxbridge1$str$ptr + 2753784
+15  libsystem_pthread.dylib             0x000000018ccfd034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018ccf7e3c thread_start + 8
+
+2025-03-15 21:01:25,716 - INFO - Chrome WebDriver closed
+2025-03-15 21:01:25,716 - INFO - No articles found during scraping.
+2025-03-15 21:02:39,792 - INFO - Starting main process...
+2025-03-15 21:02:39,793 - INFO - Loaded 0 previously sent articles
+2025-03-15 21:02:39,793 - INFO - Starting article scraping process...
+2025-03-15 21:02:41,967 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 21:03:09,101 - ERROR - Error finding articles: Message: 
+
+2025-03-15 21:03:09,184 - INFO - Chrome WebDriver closed
+2025-03-15 21:03:09,184 - INFO - No articles found during scraping.
+2025-03-15 21:03:37,770 - INFO - Starting main process...
+2025-03-15 21:03:37,773 - INFO - Loaded 0 previously sent articles
+2025-03-15 21:03:37,774 - INFO - Starting article scraping process...
+2025-03-15 21:03:39,780 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 21:04:07,172 - ERROR - Error finding articles: Message: 
+
+2025-03-15 21:04:07,253 - INFO - Chrome WebDriver closed
+2025-03-15 21:04:07,254 - INFO - No articles found during scraping.
+2025-03-15 21:05:53,150 - INFO - Starting main process...
+2025-03-15 21:05:53,151 - INFO - Loaded 0 previously sent articles
+2025-03-15 21:05:53,151 - INFO - Starting article scraping process...
+2025-03-15 21:05:55,324 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 21:06:06,843 - INFO - Found 23 article elements
+2025-03-15 21:06:06,988 - INFO - Extracted 4 unique article links
+2025-03-15 21:06:06,988 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-15 21:06:12,700 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-15 21:06:12,707 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:06:12,911 - INFO - Found 33 paragraphs
+2025-03-15 21:06:12,911 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-15 21:06:12,911 - INFO - Processing article: https://www.trobits.com/articles/67d024a19bde9b20ef24f391
+2025-03-15 21:06:18,279 - INFO - Found title: Volatility Strikes Again: A Deep Dive into the Crypto Liquidations
+2025-03-15 21:06:18,288 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:06:18,425 - INFO - Found 20 paragraphs
+2025-03-15 21:06:18,425 - INFO - Successfully scraped article: 'Volatility Strikes Again: A Deep Dive into the Crypto Liquidations'
+2025-03-15 21:06:18,426 - INFO - Processing article: https://www.trobits.com/articles/67d414a9898d73565bb803a8
+2025-03-15 21:06:23,884 - INFO - Found title: Crypto Conspiracies: From Cardano’s Tylenol Tale to Bitcoin’s CIA Origins
+2025-03-15 21:06:23,890 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:06:24,061 - INFO - Found 37 paragraphs
+2025-03-15 21:06:24,061 - INFO - Successfully scraped article: 'Crypto Conspiracies: From Cardano’s Tylenol Tale to Bitcoin’s CIA Origins'
+2025-03-15 21:06:24,061 - INFO - Processing article: https://www.trobits.com/articles/67d2c45afb8966720e68eee1
+2025-03-15 21:06:29,733 - INFO - Found title: Daily Brief with Rexannie: Mar. 13, 2025
+2025-03-15 21:06:29,761 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:06:29,889 - INFO - Found 10 paragraphs
+2025-03-15 21:06:29,890 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 13, 2025'
+2025-03-15 21:06:29,893 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 21:06:30,060 - INFO - Chrome WebDriver has been closed.
+2025-03-15 21:06:30,062 - INFO - Preparing to send personalized emails...
+2025-03-15 21:06:37,326 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 21:06:39,090 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 21:06:40,856 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 21:06:42,223 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 21:06:42,224 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 21:06:42,270 - INFO - Updated sent articles list with 4 new articles
+2025-03-15 21:09:31,632 - INFO - Starting main process...
+2025-03-15 21:09:31,633 - INFO - Loaded 4 previously sent articles
+2025-03-15 21:09:31,633 - INFO - Starting article scraping process...
+2025-03-15 21:09:34,248 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 21:09:59,119 - INFO - Found 23 article elements
+2025-03-15 21:09:59,131 - INFO - Processing first 4 articles
+2025-03-15 21:09:59,132 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-15 21:10:05,082 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-15 21:10:05,093 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:10:05,171 - INFO - Found 10 paragraphs
+2025-03-15 21:10:05,171 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-15 21:10:05,171 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-15 21:10:10,707 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-15 21:10:10,717 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:10:10,815 - INFO - Found 13 paragraphs
+2025-03-15 21:10:10,815 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-15 21:10:10,815 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-15 21:10:16,228 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-15 21:10:16,234 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:10:16,435 - INFO - Found 33 paragraphs
+2025-03-15 21:10:16,435 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-15 21:10:16,435 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-15 21:10:21,794 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-15 21:10:21,811 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:10:22,245 - INFO - Found 39 paragraphs
+2025-03-15 21:10:22,245 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-15 21:10:22,246 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 21:10:22,338 - INFO - Chrome WebDriver has been closed.
+2025-03-15 21:10:22,338 - INFO - Preparing to send personalized emails...
+2025-03-15 21:10:29,552 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-15 21:10:31,224 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-15 21:10:32,716 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-15 21:10:34,491 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-15 21:10:34,491 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-15 21:10:34,557 - INFO - Updated sent articles list with 3 new articles
+2025-03-15 21:12:34,302 - INFO - Starting main process...
+2025-03-15 21:12:34,302 - INFO - Loaded 7 previously sent articles
+2025-03-15 21:12:34,302 - INFO - Starting article scraping process...
+2025-03-15 21:12:38,299 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-15 21:12:49,589 - INFO - Found 23 article elements
+2025-03-15 21:12:49,604 - INFO - Processing first 4 articles
+2025-03-15 21:12:49,604 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-15 21:12:56,482 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-15 21:12:56,492 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:12:56,563 - INFO - Found 10 paragraphs
+2025-03-15 21:12:56,563 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-15 21:12:56,563 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-15 21:13:02,099 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-15 21:13:02,109 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:13:02,204 - INFO - Found 13 paragraphs
+2025-03-15 21:13:02,204 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-15 21:13:02,204 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-15 21:13:07,689 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-15 21:13:07,698 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:13:07,892 - INFO - Found 33 paragraphs
+2025-03-15 21:13:07,892 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-15 21:13:07,892 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-15 21:13:13,275 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-15 21:13:13,284 - INFO - Found author: EARN 2 BURN
+2025-03-15 21:13:13,491 - INFO - Found 39 paragraphs
+2025-03-15 21:13:13,491 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-15 21:13:13,492 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-15 21:13:13,579 - INFO - Chrome WebDriver has been closed.
+2025-03-15 21:13:13,579 - INFO - No new articles to send.
+2025-03-16 00:51:12,575 - INFO - Starting main process...
+2025-03-16 00:51:12,575 - INFO - Loaded 0 previously sent articles
+2025-03-16 00:51:12,575 - INFO - Starting article scraping process...
+2025-03-16 00:51:15,725 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 00:51:27,148 - INFO - Found 23 article elements
+2025-03-16 00:51:27,157 - INFO - Processing first 4 articles
+2025-03-16 00:51:27,157 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 00:51:32,796 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 00:51:32,807 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:51:32,888 - INFO - Found 10 paragraphs
+2025-03-16 00:51:32,888 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 00:51:32,888 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 00:51:38,298 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 00:51:38,304 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:51:38,399 - INFO - Found 13 paragraphs
+2025-03-16 00:51:38,400 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 00:51:38,400 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 00:51:43,725 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 00:51:43,741 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:51:43,937 - INFO - Found 33 paragraphs
+2025-03-16 00:51:43,937 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 00:51:43,937 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 00:51:49,266 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 00:51:49,276 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:51:49,512 - INFO - Found 39 paragraphs
+2025-03-16 00:51:49,512 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 00:51:49,512 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 00:51:49,602 - INFO - Chrome WebDriver has been closed.
+2025-03-16 00:51:49,603 - INFO - Preparing to send personalized emails...
+2025-03-16 00:51:56,716 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 00:51:58,377 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 00:52:00,174 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 00:52:01,470 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 00:52:01,471 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 00:52:01,499 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 00:52:54,718 - INFO - Starting main process...
+2025-03-16 00:52:54,720 - INFO - Loaded 0 previously sent articles
+2025-03-16 00:52:54,720 - INFO - Starting article scraping process...
+2025-03-16 00:52:57,156 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 00:53:08,135 - INFO - Found 23 article elements
+2025-03-16 00:53:08,150 - INFO - Processing first 4 articles
+2025-03-16 00:53:08,150 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 00:53:13,853 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 00:53:13,863 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:53:13,935 - INFO - Found 10 paragraphs
+2025-03-16 00:53:13,935 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 00:53:13,935 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 00:53:19,399 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 00:53:19,407 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:53:19,501 - INFO - Found 13 paragraphs
+2025-03-16 00:53:19,502 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 00:53:19,502 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 00:53:24,938 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 00:53:24,947 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:53:25,155 - INFO - Found 33 paragraphs
+2025-03-16 00:53:25,155 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 00:53:25,156 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 00:53:30,494 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 00:53:30,500 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:53:30,710 - INFO - Found 39 paragraphs
+2025-03-16 00:53:30,711 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 00:53:30,711 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 00:53:30,801 - INFO - Chrome WebDriver has been closed.
+2025-03-16 00:53:30,801 - INFO - Preparing to send personalized emails...
+2025-03-16 00:53:37,967 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 00:53:39,298 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 00:53:41,039 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 00:53:42,612 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 00:53:42,612 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 00:53:42,631 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 00:54:10,981 - INFO - Starting main process...
+2025-03-16 00:54:10,982 - INFO - Loaded 0 previously sent articles
+2025-03-16 00:54:10,982 - INFO - Starting article scraping process...
+2025-03-16 00:54:14,305 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 00:54:25,898 - INFO - Found 23 article elements
+2025-03-16 00:54:25,907 - INFO - Processing first 4 articles
+2025-03-16 00:54:25,907 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 00:54:31,541 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 00:54:31,550 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:54:31,631 - INFO - Found 10 paragraphs
+2025-03-16 00:54:31,631 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 00:54:31,631 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 00:54:37,099 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 00:54:37,106 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:54:37,200 - INFO - Found 13 paragraphs
+2025-03-16 00:54:37,200 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 00:54:37,201 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 00:54:42,668 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 00:54:42,674 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:54:42,854 - INFO - Found 33 paragraphs
+2025-03-16 00:54:42,854 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 00:54:42,854 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 00:54:48,340 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 00:54:48,350 - INFO - Found author: EARN 2 BURN
+2025-03-16 00:54:48,536 - INFO - Found 39 paragraphs
+2025-03-16 00:54:48,536 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 00:54:48,537 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 00:54:48,622 - INFO - Chrome WebDriver has been closed.
+2025-03-16 00:54:48,622 - INFO - Preparing to send personalized emails...
+2025-03-16 00:54:55,793 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 00:54:57,533 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 00:54:59,214 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 00:55:00,913 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 00:55:00,913 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 00:55:00,952 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 00:59:29,170 - INFO - Starting main process...
+2025-03-16 00:59:29,171 - INFO - Loaded 0 previously sent articles
+2025-03-16 00:59:29,171 - ERROR - Error scraping articles: name 'setup_driver' is not defined
+2025-03-16 00:59:44,479 - INFO - Starting main process...
+2025-03-16 00:59:44,480 - INFO - Loaded 0 previously sent articles
+2025-03-16 00:59:48,731 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 00:59:58,928 - ERROR - Error scraping articles: Message: 
+
+2025-03-16 00:59:59,011 - WARNING - No articles found during scraping.
+2025-03-16 01:01:36,071 - INFO - Starting main process...
+2025-03-16 01:01:36,071 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:01:39,595 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:01:49,785 - ERROR - Error scraping articles: Message: 
+
+2025-03-16 01:01:49,865 - WARNING - No articles found during scraping.
+2025-03-16 01:02:58,849 - INFO - Starting main process...
+2025-03-16 01:02:58,850 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:03:02,820 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:03:13,005 - ERROR - Error scraping articles: Message: 
+
+2025-03-16 01:03:13,087 - WARNING - No articles found during scraping.
+2025-03-16 01:03:47,303 - INFO - Starting main process...
+2025-03-16 01:03:47,303 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:03:51,574 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:04:01,736 - ERROR - Error scraping articles: Message: 
+
+2025-03-16 01:04:01,818 - WARNING - No articles found during scraping.
+2025-03-16 01:04:24,206 - INFO - Starting main process...
+2025-03-16 01:04:24,206 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:04:27,977 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:04:38,007 - ERROR - Error scraping articles: Message: 
+
+2025-03-16 01:04:38,095 - WARNING - No articles found during scraping.
+2025-03-16 01:04:57,275 - INFO - Starting main process...
+2025-03-16 01:04:57,276 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:04:59,676 - ERROR - Could not start Chrome WebDriver: Message: Service /opt/homebrew/bin/chromedriver unexpectedly exited. Status code was: -9
+
+2025-03-16 01:04:59,683 - ERROR - Failed to initialize WebDriver
+2025-03-16 01:04:59,683 - WARNING - No articles found during scraping.
+2025-03-16 01:05:57,023 - INFO - Starting main process...
+2025-03-16 01:05:57,023 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:05:59,930 - ERROR - Could not start Chrome WebDriver: Message: Service /opt/homebrew/bin/chromedriver unexpectedly exited. Status code was: -9
+
+2025-03-16 01:05:59,935 - ERROR - Failed to initialize WebDriver
+2025-03-16 01:05:59,935 - WARNING - No articles found during scraping.
+2025-03-16 01:08:11,565 - INFO - Starting main process...
+2025-03-16 01:08:11,566 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:08:11,566 - INFO - Starting article scraping process...
+2025-03-16 01:08:13,930 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:08:25,148 - INFO - Found 23 article elements
+2025-03-16 01:08:25,158 - INFO - Processing first 4 articles
+2025-03-16 01:08:25,158 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:08:30,546 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:08:30,553 - INFO - Found author: EARN 2 BURN
+2025-03-16 01:08:30,608 - INFO - Found 10 paragraphs
+2025-03-16 01:08:30,609 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:08:30,609 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:08:36,021 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:08:36,030 - INFO - Found author: EARN 2 BURN
+2025-03-16 01:08:36,203 - INFO - Found 13 paragraphs
+2025-03-16 01:08:36,203 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:08:36,203 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:08:41,495 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:08:41,504 - INFO - Found author: EARN 2 BURN
+2025-03-16 01:08:41,716 - INFO - Found 33 paragraphs
+2025-03-16 01:08:41,716 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:08:41,716 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:08:47,009 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:08:47,018 - INFO - Found author: EARN 2 BURN
+2025-03-16 01:08:47,218 - INFO - Found 39 paragraphs
+2025-03-16 01:08:47,218 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:08:47,219 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:08:47,303 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:08:47,304 - INFO - Preparing to send personalized emails...
+2025-03-16 01:08:54,435 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 01:12:08,450 - INFO - Starting main process...
+2025-03-16 01:12:08,451 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:12:08,451 - INFO - Starting article scraping process...
+2025-03-16 01:12:11,307 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:12:22,884 - INFO - Found 23 article elements
+2025-03-16 01:12:22,896 - INFO - Processing first 4 articles
+2025-03-16 01:12:22,896 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:12:28,615 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:12:28,670 - INFO - Found 10 paragraphs
+2025-03-16 01:12:28,671 - INFO - Found author: by Rexannie
+2025-03-16 01:12:28,671 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:12:28,671 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:12:34,265 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:12:34,482 - INFO - Found 13 paragraphs
+2025-03-16 01:12:34,482 - INFO - Found author: by Saba Tauseef
+2025-03-16 01:12:34,484 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:12:34,484 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:12:39,946 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:12:40,141 - INFO - Found 33 paragraphs
+2025-03-16 01:12:40,141 - INFO - Found author: by Segun Olaloye
+2025-03-16 01:12:40,141 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:12:40,141 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:12:45,643 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:12:45,826 - INFO - Found 39 paragraphs
+2025-03-16 01:12:45,827 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-16 01:12:45,827 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:12:45,830 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:12:45,912 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:12:45,912 - INFO - Preparing to send personalized emails...
+2025-03-16 01:12:53,042 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 01:12:54,705 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 01:12:56,423 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 01:12:58,120 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 01:12:58,120 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 01:12:58,145 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 01:17:20,582 - INFO - Starting main process...
+2025-03-16 01:17:20,582 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:17:20,582 - INFO - Starting article scraping process...
+2025-03-16 01:17:23,150 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:17:34,488 - INFO - Found 23 article elements
+2025-03-16 01:17:34,501 - INFO - Processing first 4 articles
+2025-03-16 01:17:34,501 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:17:39,892 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:17:39,958 - INFO - Found 10 paragraphs
+2025-03-16 01:17:39,958 - INFO - Found author: by Rexannie
+2025-03-16 01:17:39,958 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:17:39,958 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:17:45,254 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:17:45,364 - INFO - Found 13 paragraphs
+2025-03-16 01:17:45,364 - INFO - Found author: by Saba Tauseef
+2025-03-16 01:17:45,365 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:17:45,365 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:17:50,668 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:17:50,855 - INFO - Found 33 paragraphs
+2025-03-16 01:17:50,856 - INFO - Found author: by Segun Olaloye
+2025-03-16 01:17:50,856 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:17:50,856 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:17:56,150 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:17:56,395 - INFO - Found 39 paragraphs
+2025-03-16 01:17:56,395 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-16 01:17:56,395 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:17:56,396 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:17:56,645 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:17:56,645 - INFO - Preparing to send personalized emails...
+2025-03-16 01:18:03,115 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 01:18:04,752 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 01:18:06,437 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 01:18:07,413 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 01:18:07,413 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 01:18:07,432 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 01:21:47,408 - INFO - Starting main process...
+2025-03-16 01:21:47,409 - INFO - Loaded 4 previously sent articles
+2025-03-16 01:21:47,409 - INFO - Starting article scraping process...
+2025-03-16 01:21:49,967 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:22:01,372 - INFO - Found 23 article elements
+2025-03-16 01:22:01,386 - INFO - Processing first 4 articles
+2025-03-16 01:22:01,386 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:22:06,793 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:22:06,865 - INFO - Found 10 paragraphs
+2025-03-16 01:22:06,865 - INFO - Found author: by Rexannie
+2025-03-16 01:22:06,865 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:22:06,865 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:22:12,377 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:22:12,470 - INFO - Found 13 paragraphs
+2025-03-16 01:22:12,470 - INFO - Found author: by Saba Tauseef
+2025-03-16 01:22:12,470 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:22:12,470 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:22:17,789 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:22:17,973 - INFO - Found 33 paragraphs
+2025-03-16 01:22:17,973 - INFO - Found author: by Segun Olaloye
+2025-03-16 01:22:17,973 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:22:17,973 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:22:23,295 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:22:23,516 - INFO - Found 39 paragraphs
+2025-03-16 01:22:23,516 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-16 01:22:23,516 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:22:23,518 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:22:23,608 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:22:23,608 - INFO - No new articles to send.
+2025-03-16 01:26:17,482 - INFO - Starting main process...
+2025-03-16 01:26:17,483 - INFO - Creating new sent_articles.json file...
+2025-03-16 01:26:17,483 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:26:17,483 - INFO - Starting article scraping process...
+2025-03-16 01:26:19,683 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:26:30,811 - INFO - Found 23 article elements
+2025-03-16 01:26:30,820 - INFO - Processing first 4 articles
+2025-03-16 01:26:30,820 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:26:36,489 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:26:36,560 - INFO - Found 10 paragraphs
+2025-03-16 01:26:36,561 - INFO - Found author: by Rexannie
+2025-03-16 01:26:36,561 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:26:36,561 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:26:41,976 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:26:42,083 - INFO - Found 13 paragraphs
+2025-03-16 01:26:42,083 - INFO - Found author: by Saba Tauseef
+2025-03-16 01:26:42,083 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:26:42,083 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:26:47,564 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:26:47,811 - INFO - Found 33 paragraphs
+2025-03-16 01:26:47,811 - INFO - Found author: by Segun Olaloye
+2025-03-16 01:26:47,811 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:26:47,811 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:26:53,347 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:26:53,571 - INFO - Found 39 paragraphs
+2025-03-16 01:26:53,571 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-16 01:26:53,571 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:26:53,573 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:26:53,660 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:26:53,661 - INFO - Preparing to send personalized emails...
+2025-03-16 01:27:00,898 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 01:27:02,152 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 01:27:03,642 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 01:27:05,172 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 01:27:05,172 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 01:27:05,191 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 01:28:15,196 - INFO - Starting main process...
+2025-03-16 01:28:15,196 - INFO - Creating new sent_articles.json file...
+2025-03-16 01:28:15,196 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:28:15,196 - INFO - Starting article scraping process...
+2025-03-16 01:28:17,524 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:28:28,658 - INFO - Found 23 article elements
+2025-03-16 01:28:28,667 - INFO - Processing first 4 articles
+2025-03-16 01:28:28,667 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:28:34,093 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:28:34,150 - INFO - Found 10 paragraphs
+2025-03-16 01:28:34,150 - INFO - Found author: by Rexannie
+2025-03-16 01:28:34,150 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:28:34,150 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:28:39,568 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:28:39,664 - INFO - Found 13 paragraphs
+2025-03-16 01:28:39,664 - INFO - Found author: by Saba Tauseef
+2025-03-16 01:28:39,664 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:28:39,664 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:28:44,956 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:28:45,160 - INFO - Found 33 paragraphs
+2025-03-16 01:28:45,160 - INFO - Found author: by Segun Olaloye
+2025-03-16 01:28:45,160 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:28:45,160 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:28:50,446 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:28:50,641 - INFO - Found 39 paragraphs
+2025-03-16 01:28:50,641 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-16 01:28:50,641 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:28:50,642 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:28:50,726 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:28:50,727 - INFO - Preparing to send personalized emails...
+2025-03-16 01:28:57,048 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 01:28:58,683 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 01:29:00,308 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 01:29:01,448 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 01:29:01,448 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-16 01:29:01,469 - INFO - Updated sent articles list with 4 new articles
+2025-03-16 01:37:30,410 - INFO - Starting main process...
+2025-03-16 01:37:30,410 - INFO - Creating new sent_articles.json file...
+2025-03-16 01:37:30,411 - INFO - Loaded 0 previously sent articles
+2025-03-16 01:37:30,411 - INFO - Starting article scraping process...
+2025-03-16 01:37:32,790 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-16 01:37:44,516 - INFO - Found 23 article elements
+2025-03-16 01:37:44,529 - INFO - Processing first 4 articles
+2025-03-16 01:37:44,530 - INFO - Processing article: https://www.trobits.com/articles/67d5346c238ad6f2189ccfd7
+2025-03-16 01:37:49,936 - INFO - Found title: Daily Brief with Rexannie: Mar. 15, 2025
+2025-03-16 01:37:50,029 - INFO - Found 10 paragraphs
+2025-03-16 01:37:50,029 - INFO - Found author: by Rexannie
+2025-03-16 01:37:50,029 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 15, 2025'
+2025-03-16 01:37:50,029 - INFO - Processing article: https://www.trobits.com/articles/67d50062898d73565bb803ae
+2025-03-16 01:37:55,455 - INFO - Found title: BNB Chain Sets March 20 for Pascal Hardfork on Mainnet
+2025-03-16 01:37:55,548 - INFO - Found 13 paragraphs
+2025-03-16 01:37:55,549 - INFO - Found author: by Saba Tauseef
+2025-03-16 01:37:55,549 - INFO - Successfully scraped article: 'BNB Chain Sets March 20 for Pascal Hardfork on Mainnet'
+2025-03-16 01:37:55,549 - INFO - Processing article: https://www.trobits.com/articles/67d4ff85898d73565bb803ad
+2025-03-16 01:38:00,857 - INFO - Found title: STP Network: Revolutionizing Decentralized Finance with Seamless Compliance
+2025-03-16 01:38:01,036 - INFO - Found 33 paragraphs
+2025-03-16 01:38:01,036 - INFO - Found author: by Segun Olaloye
+2025-03-16 01:38:01,036 - INFO - Successfully scraped article: 'STP Network: Revolutionizing Decentralized Finance with Seamless Compliance'
+2025-03-16 01:38:01,036 - INFO - Processing article: https://www.trobits.com/articles/67d4fdd3898d73565bb803ac
+2025-03-16 01:38:06,350 - INFO - Found title: RedotPay: Leading the Evolution of Everyday Crypto Payment
+2025-03-16 01:38:06,535 - INFO - Found 39 paragraphs
+2025-03-16 01:38:06,535 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-16 01:38:06,535 - INFO - Successfully scraped article: 'RedotPay: Leading the Evolution of Everyday Crypto Payment'
+2025-03-16 01:38:06,538 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-16 01:38:06,620 - INFO - Chrome WebDriver has been closed.
+2025-03-16 01:38:06,621 - INFO - Preparing to send personalized emails...
+2025-03-16 01:38:13,661 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-16 01:38:15,335 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-16 01:38:17,076 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-16 01:38:18,612 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-16 01:38:20,251 - INFO - Personalized email sent to drdesir@yahoo.com
+2025-03-16 01:38:21,439 - INFO - Personalized email sent to tetabi@yahoo.com
+2025-03-16 01:38:22,994 - INFO - Personalized email sent to calvin.james00@gmail.com
+2025-03-16 01:38:24,581 - INFO - Personalized email sent to angela.fisher212@gmail.com
+2025-03-16 01:38:24,582 - INFO - Completed sending personalized emails to 8 recipients
+2025-03-16 01:38:24,656 - INFO - Updated sent articles list with 4 new articles
+2025-03-17 20:28:35,421 - INFO - Starting main process...
+2025-03-17 20:28:35,422 - INFO - Loaded 4 previously sent articles
+2025-03-17 20:28:35,422 - INFO - Starting article scraping process...
+2025-03-17 20:28:40,484 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-17 20:28:51,747 - INFO - Found 23 article elements
+2025-03-17 20:28:51,760 - INFO - Processing first 4 articles
+2025-03-17 20:28:51,760 - INFO - Processing article: https://www.trobits.com/articles/67d7ffae14b46e606090cb2a
+2025-03-17 20:28:57,645 - INFO - Found title: BBVA Secures Approval to Offer Bitcoin & Ethereum Trading in Spain
+2025-03-17 20:28:57,743 - INFO - Found 20 paragraphs
+2025-03-17 20:28:57,743 - INFO - Found author: by Saba Tauseef
+2025-03-17 20:28:57,743 - INFO - Successfully scraped article: 'BBVA Secures Approval to Offer Bitcoin & Ethereum Trading in Spain'
+2025-03-17 20:28:57,743 - INFO - Processing article: https://www.trobits.com/articles/67d7fcdd14b46e606090cb29
+2025-03-17 20:29:03,784 - INFO - Found title: The Top Crypto Cards of 2025: Bridging Traditional Banking and Cryptocurrency
+2025-03-17 20:29:04,073 - INFO - Found 68 paragraphs
+2025-03-17 20:29:04,073 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-17 20:29:04,073 - INFO - Successfully scraped article: 'The Top Crypto Cards of 2025: Bridging Traditional Banking and Cryptocurrency'
+2025-03-17 20:29:04,074 - INFO - Processing article: https://www.trobits.com/articles/67d7f77814b46e606090cb28
+2025-03-17 20:29:09,886 - INFO - Found title: Daily Brief with Rexannie: Mar. 17, 2025
+2025-03-17 20:29:09,942 - INFO - Found 8 paragraphs
+2025-03-17 20:29:09,942 - INFO - Found author: by Rexannie
+2025-03-17 20:29:09,942 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 17, 2025'
+2025-03-17 20:29:09,942 - INFO - Processing article: https://www.trobits.com/articles/67d72cfb60d811c070797c12
+2025-03-17 20:29:15,824 - INFO - Found title: China Cracks Down on Crypto Laundering: Over 1,000 Prosecuted in 2024
+2025-03-17 20:29:15,955 - INFO - Found 25 paragraphs
+2025-03-17 20:29:15,955 - INFO - Found author: by Saba Tauseef
+2025-03-17 20:29:15,955 - INFO - Successfully scraped article: 'China Cracks Down on Crypto Laundering: Over 1,000 Prosecuted in 2024'
+2025-03-17 20:29:15,955 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-17 20:29:16,048 - INFO - Chrome WebDriver has been closed.
+2025-03-17 20:29:16,048 - INFO - Preparing to send personalized emails...
+2025-03-17 20:29:23,529 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-17 20:29:25,390 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-17 20:29:26,884 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-17 20:29:28,095 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-17 20:29:28,096 - INFO - Completed sending personalized emails to 4 recipients
+2025-03-17 20:29:28,148 - INFO - Updated sent articles list with 4 new articles
+2025-03-17 20:45:51,410 - INFO - Starting main process...
+2025-03-17 20:45:51,410 - INFO - Loaded 4 previously sent articles
+2025-03-17 20:45:51,411 - INFO - Starting article scraping process...
+2025-03-17 20:45:58,449 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-17 20:46:09,799 - INFO - Found 23 article elements
+2025-03-17 20:46:09,808 - INFO - Processing first 4 articles
+2025-03-17 20:46:09,808 - INFO - Processing article: https://www.trobits.com/articles/67d7ffae14b46e606090cb2a
+2025-03-17 20:46:15,421 - INFO - Found title: BBVA Secures Approval to Offer Bitcoin & Ethereum Trading in Spain
+2025-03-17 20:46:15,528 - INFO - Found 20 paragraphs
+2025-03-17 20:46:15,532 - INFO - Found author: by Saba Tauseef
+2025-03-17 20:46:15,533 - INFO - Successfully scraped article: 'BBVA Secures Approval to Offer Bitcoin & Ethereum Trading in Spain'
+2025-03-17 20:46:15,533 - INFO - Processing article: https://www.trobits.com/articles/67d7fcdd14b46e606090cb29
+2025-03-17 20:46:21,749 - INFO - Found title: The Top Crypto Cards of 2025: Bridging Traditional Banking and Cryptocurrency
+2025-03-17 20:46:22,039 - INFO - Found 68 paragraphs
+2025-03-17 20:46:22,039 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-17 20:46:22,039 - INFO - Successfully scraped article: 'The Top Crypto Cards of 2025: Bridging Traditional Banking and Cryptocurrency'
+2025-03-17 20:46:22,039 - INFO - Processing article: https://www.trobits.com/articles/67d7f77814b46e606090cb28
+2025-03-17 20:46:27,925 - INFO - Found title: Daily Brief with Rexannie: Mar. 17, 2025
+2025-03-17 20:46:27,982 - INFO - Found 8 paragraphs
+2025-03-17 20:46:27,983 - INFO - Found author: by Rexannie
+2025-03-17 20:46:27,983 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 17, 2025'
+2025-03-17 20:46:27,983 - INFO - Processing article: https://www.trobits.com/articles/67d72cfb60d811c070797c12
+2025-03-17 20:46:33,513 - INFO - Found title: China Cracks Down on Crypto Laundering: Over 1,000 Prosecuted in 2024
+2025-03-17 20:46:33,628 - INFO - Found 25 paragraphs
+2025-03-17 20:46:33,628 - INFO - Found author: by Saba Tauseef
+2025-03-17 20:46:33,628 - INFO - Successfully scraped article: 'China Cracks Down on Crypto Laundering: Over 1,000 Prosecuted in 2024'
+2025-03-17 20:46:33,629 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-17 20:46:33,716 - INFO - Chrome WebDriver has been closed.
+2025-03-17 20:46:33,717 - INFO - Preparing to send personalized emails...
+2025-03-17 20:46:40,492 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-17 20:46:41,737 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-17 20:46:42,869 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-17 20:46:44,293 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-17 20:46:45,298 - INFO - Personalized email sent to mollahnasir329@gmail.com
+2025-03-17 20:46:46,436 - INFO - Personalized email sent to drdesir@yahoo.com
+2025-03-17 20:46:47,505 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-17 20:46:48,538 - INFO - Personalized email sent to tetabi@yahoo.com
+2025-03-17 20:46:49,598 - INFO - Personalized email sent to agborndip3@yahoo.com
+2025-03-17 20:46:50,632 - INFO - Personalized email sent to desir.elider@gmail.com
+2025-03-17 20:46:52,576 - INFO - Personalized email sent to calvin.james00@gmail.com
+2025-03-17 20:46:53,630 - INFO - Personalized email sent to danielle.tabeebob@gmail.com
+2025-03-17 20:46:54,828 - INFO - Personalized email sent to danielle.tabeebob25@gmail.com
+2025-03-17 20:46:55,968 - INFO - Personalized email sent to justinaggakwaghe@gmail.com
+2025-03-17 20:46:56,932 - INFO - Personalized email sent to messikwaghe23@gmail.com
+2025-03-17 20:46:57,928 - INFO - Personalized email sent to michelletabeebob@gmail.com
+2025-03-17 20:46:58,960 - INFO - Personalized email sent to gga@unc.edu
+2025-03-17 20:47:00,051 - INFO - Personalized email sent to test@gmail.com
+2025-03-17 20:47:01,032 - INFO - Personalized email sent to nasirmollah192@gmail.com
+2025-03-17 20:47:02,200 - INFO - Personalized email sent to viarrah@yahoo.com
+2025-03-17 20:47:03,430 - INFO - Personalized email sent to farita79@gmail.com
+2025-03-17 20:47:04,783 - INFO - Personalized email sent to ksain001@gmail.com
+2025-03-17 20:47:06,532 - INFO - Personalized email sent to superstar_33168@yahoo.com
+2025-03-17 20:47:07,959 - INFO - Personalized email sent to farahs.james@gmail.com
+2025-03-17 20:47:09,164 - INFO - Personalized email sent to financeglobal@greenlyspheremarket.com
+2025-03-17 20:47:10,495 - INFO - Personalized email sent to zavthor@gmail.com
+2025-03-17 20:47:11,760 - INFO - Personalized email sent to Georgeegbereke@gmail.com
+2025-03-17 20:47:13,160 - INFO - Personalized email sent to angk9roofing@gmail.com
+2025-03-17 20:47:14,283 - INFO - Personalized email sent to omgbamelissa@yahoo.fr
+2025-03-17 20:47:15,639 - INFO - Personalized email sent to bbawak@gmail.com
+2025-03-17 20:47:16,844 - INFO - Personalized email sent to elishangolemasango@yahoo.com
+2025-03-17 20:47:17,859 - INFO - Personalized email sent to larryw4356@icloud.com
+2025-03-17 20:47:19,058 - INFO - Personalized email sent to cliftonconfident@gmail.com
+2025-03-17 20:47:20,096 - INFO - Personalized email sent to frantzfortune.veo@gmail.com
+2025-03-17 20:47:21,247 - INFO - Personalized email sent to kathytabeebob@gmail.com
+2025-03-17 20:47:22,376 - INFO - Personalized email sent to louisvilsaint@gmail.com
+2025-03-17 20:47:23,373 - INFO - Personalized email sent to johnj.veo@gmail.com
+2025-03-17 20:47:24,488 - INFO - Personalized email sent to nkn248448@gmail.com
+2025-03-17 20:47:26,167 - INFO - Personalized email sent to ngarcon@hotmail.com
+2025-03-17 20:47:27,502 - INFO - Personalized email sent to 11014628@live.mercer.edu
+2025-03-17 20:47:28,666 - INFO - Personalized email sent to derrick14@hotmail.com
+2025-03-17 20:47:29,758 - INFO - Personalized email sent to emmanuel@tabe-ebob.org
+2025-03-17 20:47:30,668 - INFO - Personalized email sent to ojong_bernard@yahoo.com
+2025-03-17 20:47:31,858 - INFO - Personalized email sent to motislinco@yahoo.com
+2025-03-17 20:47:32,816 - INFO - Personalized email sent to rexanniedcontententwriter@gmail.com
+2025-03-17 20:47:33,996 - INFO - Personalized email sent to onyekeluuchukwu@gmail.com
+2025-03-17 20:47:35,046 - INFO - Personalized email sent to omondiderrique@gmail.com
+2025-03-17 20:47:36,095 - INFO - Personalized email sent to tosin4525@gmail.com
+2025-03-17 20:47:37,246 - INFO - Personalized email sent to christopherbesong@yahoo.com
+2025-03-17 20:47:38,353 - INFO - Personalized email sent to bkabuyi@gmail.com
+2025-03-17 20:47:39,295 - INFO - Personalized email sent to faradaygeorges@gmail.com
+2025-03-17 20:47:40,372 - INFO - Personalized email sent to daemiens@gmail.com
+2025-03-17 20:47:41,454 - INFO - Personalized email sent to catherinefomukong@gmail.com
+2025-03-17 20:47:42,412 - INFO - Personalized email sent to aline.desir001@gmail.com
+2025-03-17 20:47:43,374 - INFO - Personalized email sent to opaojong@gmail.com
+2025-03-17 20:47:44,407 - INFO - Personalized email sent to komtangi2000@yahoo.com
+2025-03-17 20:47:45,365 - INFO - Personalized email sent to komtanginabi54@gmail.com
+2025-03-17 20:47:46,250 - INFO - Personalized email sent to enrimagifts@yahoo.com
+2025-03-17 20:47:47,288 - INFO - Personalized email sent to c_fon@yahoo.com
+2025-03-17 20:47:48,169 - INFO - Personalized email sent to mangaclaudine@yahoo.com
+2025-03-17 20:47:48,991 - INFO - Personalized email sent to lawalridwan61@gmail.com
+2025-03-17 20:47:50,012 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-17 20:47:50,905 - INFO - Personalized email sent to chantaltabeebob43@gmail.com
+2025-03-17 20:47:51,858 - INFO - Personalized email sent to nasir@gmail.com
+2025-03-17 20:47:52,773 - INFO - Personalized email sent to asdfasf@gmail.com
+2025-03-17 20:47:53,567 - INFO - Personalized email sent to clarencebillion@gmail.com
+2025-03-17 20:47:54,488 - INFO - Personalized email sent to ifyconstance@yahoo.com
+2025-03-17 20:47:55,851 - INFO - Personalized email sent to arrey.bess@gmail.com
+2025-03-17 20:47:56,847 - INFO - Personalized email sent to kwankahtaka25@gmaiil.com
+2025-03-17 20:47:57,880 - INFO - Personalized email sent to dilnasheenfatima786@gmail.com
+2025-03-17 20:47:58,891 - INFO - Personalized email sent to neetheguy@gmail.com
+2025-03-17 20:48:00,228 - INFO - Personalized email sent to samtreastttwt@gmail.com
+2025-03-17 20:48:01,050 - INFO - Personalized email sent to lydia1355@yahoo.com
+2025-03-17 20:48:01,848 - INFO - Personalized email sent to dkofii@yahoo.com
+2025-03-17 20:48:02,853 - INFO - Personalized email sent to brisimone02@gmail.com
+2025-03-17 20:48:03,647 - INFO - Personalized email sent to ebtambi@gmail.com
+2025-03-17 20:48:04,683 - INFO - Personalized email sent to bigcat6936@gmail.com
+2025-03-17 20:48:05,533 - INFO - Personalized email sent to dennis.king.1997.dk@gmail.com
+2025-03-17 20:48:06,609 - INFO - Personalized email sent to tabidenis33@gmail.com
+2025-03-17 20:48:07,611 - INFO - Personalized email sent to 94bunts-ethical@icloud.com
+2025-03-17 20:48:08,429 - INFO - Personalized email sent to palette_doublet_1q@icloud.com
+2025-03-17 20:48:09,375 - INFO - Personalized email sent to kuldeep13112@gmail.com
+2025-03-17 20:48:10,603 - INFO - Personalized email sent to johnw69@gmail.com
+2025-03-17 20:48:11,730 - INFO - Personalized email sent to jamescl96@yahoo.com
+2025-03-17 20:48:12,876 - INFO - Personalized email sent to garysimeon447@gmail.com
+2025-03-17 20:48:13,988 - INFO - Personalized email sent to saif.shah89@yahoo.com
+2025-03-17 20:48:14,819 - INFO - Personalized email sent to Kadenin@hotmail.com
+2025-03-17 20:48:15,693 - INFO - Personalized email sent to Davoneugene@yahoo.com
+2025-03-17 20:48:17,001 - INFO - Personalized email sent to carlhenry@yahoo.com
+2025-03-17 20:48:17,838 - INFO - Personalized email sent to oceantomlinson@gmail.com
+2025-03-17 20:48:18,752 - INFO - Personalized email sent to oliviadfortune@gmail.com
+2025-03-17 20:48:19,774 - INFO - Personalized email sent to donovanslumberandsupplies@gmail.com
+2025-03-17 20:48:20,844 - INFO - Personalized email sent to darrelmelvis@yahoo.com
+2025-03-17 20:48:22,133 - INFO - Personalized email sent to brewsterbens46@gmail.com
+2025-03-17 20:48:23,000 - INFO - Personalized email sent to fortnitemontage0001@gmail.com
+2025-03-17 20:48:24,050 - INFO - Personalized email sent to eugenensoh@yahoo.com
+2025-03-17 20:48:25,358 - INFO - Personalized email sent to kakos@gmail.com
+2025-03-17 20:48:26,680 - INFO - Personalized email sent to ffednerffenelon@gmail.com
+2025-03-17 20:48:27,735 - INFO - Personalized email sent to flonardo19@hotmail.com
+2025-03-17 20:48:28,770 - INFO - Personalized email sent to DRECMOORE@BELLSOUTH.NET
+2025-03-17 20:48:29,852 - INFO - Personalized email sent to pantojaeduardo@yahoo.com
+2025-03-17 20:48:31,122 - INFO - Personalized email sent to folalawal@bellsouth.net
+2025-03-17 20:48:32,107 - INFO - Personalized email sent to leegundus@gmail.com
+2025-03-17 20:48:33,337 - INFO - Personalized email sent to MicKeycarter48@gmail.com
+2025-03-17 20:48:34,606 - INFO - Personalized email sent to yonas_tamene@hotmail.com
+2025-03-17 20:48:35,692 - INFO - Personalized email sent to seancjohnson0417@gmail.com
+2025-03-17 20:48:36,819 - INFO - Personalized email sent to drharish98@gmail.com
+2025-03-17 20:48:37,805 - INFO - Personalized email sent to kirashae63@gmail.com
+2025-03-17 20:48:38,825 - INFO - Personalized email sent to yonasteferra@gmail.com
+2025-03-17 20:48:39,845 - INFO - Personalized email sent to joeyfolloway@aol.com
+2025-03-17 20:48:40,713 - INFO - Personalized email sent to jdowney5012@gmail.com
+2025-03-17 20:48:41,917 - INFO - Personalized email sent to jonesdalecia@gmail.com
+2025-03-17 20:48:42,866 - INFO - Personalized email sent to cyrilobale@gmail.com
+2025-03-17 20:48:43,649 - INFO - Personalized email sent to jeff@jeffziegler.com
+2025-03-17 20:48:44,606 - INFO - Personalized email sent to obasiwills@gmail.com
+2025-03-17 20:48:45,427 - INFO - Personalized email sent to bihmabelle@gmail.com
+2025-03-17 20:48:46,342 - INFO - Personalized email sent to qcrem@live.com
+2025-03-17 20:48:47,215 - INFO - Personalized email sent to shaunhealey83@outlook.com
+2025-03-17 20:48:48,142 - INFO - Personalized email sent to colinjrains@gmail.com
+2025-03-17 20:48:49,132 - INFO - Personalized email sent to leebrady73@gmail.com
+2025-03-17 20:48:49,925 - INFO - Personalized email sent to sherikhan6594@gmail.com
+2025-03-17 20:48:50,920 - INFO - Personalized email sent to Soehlman@gmail.com
+2025-03-17 20:48:51,754 - INFO - Personalized email sent to jites2014@gmail.com
+2025-03-17 20:48:52,895 - INFO - Personalized email sent to ec_ako@yahoo.com
+2025-03-17 20:48:54,068 - INFO - Personalized email sent to skylarspearman@gmail.com
+2025-03-17 20:48:55,167 - INFO - Personalized email sent to cadeziegler@gmail.com
+2025-03-17 20:48:56,172 - INFO - Personalized email sent to chaseziegler@gmail.com
+2025-03-17 20:48:57,298 - INFO - Personalized email sent to zacharyladd9@gmail.com
+2025-03-17 20:48:58,322 - INFO - Personalized email sent to trobits@protonmail.com
+2025-03-17 20:48:59,224 - INFO - Personalized email sent to daltonziegler@gmail.com
+2025-03-17 20:49:00,268 - INFO - Personalized email sent to jettziegler@gmail.com
+2025-03-17 20:49:01,496 - INFO - Personalized email sent to shariff6@gmail.com
+2025-03-17 20:49:02,316 - INFO - Personalized email sent to syrus.01@gmail.com
+2025-03-17 20:49:03,398 - INFO - Personalized email sent to jeff+trobits@jones-us.com
+2025-03-17 20:49:04,365 - INFO - Personalized email sent to hoove55@hotmail.com
+2025-03-17 20:49:05,388 - INFO - Personalized email sent to mohamed.khourshid86@gmail.com
+2025-03-17 20:49:06,782 - INFO - Personalized email sent to younghus81@gmail.com
+2025-03-17 20:49:07,679 - INFO - Personalized email sent to suhailialyy12@gmail.com
+2025-03-17 20:49:08,671 - INFO - Personalized email sent to kvdvelde1@gmail.com
+2025-03-17 20:49:09,693 - INFO - Personalized email sent to lknight.4btp2@passmail.net
+2025-03-17 20:49:10,959 - INFO - Personalized email sent to dobimi@yahoo.com
+2025-03-17 20:49:11,964 - INFO - Personalized email sent to jtsherri@gmail.com
+2025-03-17 20:49:13,072 - INFO - Personalized email sent to leafman21.ba@gmail.com
+2025-03-17 20:49:13,875 - INFO - Personalized email sent to odie@iinet.net.au
+2025-03-17 20:49:14,706 - INFO - Personalized email sent to coporeal@hotmail.com
+2025-03-17 20:49:15,633 - INFO - Personalized email sent to bobgabrandon@gmail.com
+2025-03-17 20:49:16,862 - INFO - Personalized email sent to bobgabrandon13@gmail.com
+2025-03-17 20:49:17,665 - INFO - Personalized email sent to juiuojie@gmail.com
+2025-03-17 20:49:18,459 - INFO - Personalized email sent to ambeshardrak64@yahoo.com
+2025-03-17 20:49:19,484 - INFO - Personalized email sent to julamprecht@duck.com
+2025-03-17 20:49:20,513 - INFO - Personalized email sent to loganbartlettt@gmail.com
+2025-03-17 20:49:21,486 - INFO - Personalized email sent to Howien1@msn.com
+2025-03-17 20:49:22,716 - INFO - Personalized email sent to howien1@msn.com
+2025-03-17 20:49:23,719 - INFO - Personalized email sent to markjolsson@gmail.com
+2025-03-17 20:49:24,987 - INFO - Personalized email sent to mekemblayz@gmail.com
+2025-03-17 20:49:26,018 - INFO - Personalized email sent to mekemeblayz@gmail.com
+2025-03-17 20:49:27,021 - INFO - Personalized email sent to tezohchelsea@gmail.com
+2025-03-17 20:49:28,159 - INFO - Personalized email sent to Tezohchelsea@gmail.com
+2025-03-17 20:49:29,053 - INFO - Personalized email sent to segunolaloye100@gmail.com
+2025-03-17 20:49:29,884 - INFO - Personalized email sent to itsdylanlol@gmail.com
+2025-03-17 20:49:30,999 - INFO - Personalized email sent to wambuisusan139@gmail.com
+2025-03-17 20:49:31,849 - INFO - Personalized email sent to adesinapeter64@gmail.com
+2025-03-17 20:49:32,681 - INFO - Personalized email sent to pkoehler24@yahoo.com
+2025-03-17 20:49:33,631 - INFO - Personalized email sent to billy_ozone@aol.com
+2025-03-17 20:49:34,521 - INFO - Personalized email sent to lauremarquise@gmail.com
+2025-03-17 20:49:35,386 - INFO - Personalized email sent to Samueldotaru@gmail.com
+2025-03-17 20:49:36,310 - INFO - Personalized email sent to jordan.escoubes@hotmail.fr
+2025-03-17 20:49:37,493 - INFO - Personalized email sent to trixie_geisa@yahoo.com
+2025-03-17 20:49:38,376 - INFO - Personalized email sent to nakalembesamie@gmail.com
+2025-03-17 20:49:39,391 - INFO - Personalized email sent to augustaendo@gmail.com
+2025-03-17 20:49:40,354 - INFO - Personalized email sent to cnmanyi@gmail.com
+2025-03-17 20:49:41,275 - INFO - Personalized email sent to crypto4.ever.life@gmail.com
+2025-03-17 20:49:42,163 - INFO - Personalized email sent to Invertent@gmail.com
+2025-03-17 20:49:43,035 - INFO - Personalized email sent to dltmtp@gmail.com
+2025-03-17 20:49:44,108 - INFO - Personalized email sent to jaycase93@gmail.com
+2025-03-17 20:49:45,033 - INFO - Personalized email sent to wilsonjj1003@outlook.com
+2025-03-17 20:49:46,041 - INFO - Personalized email sent to jose.jose3155@gmail.com
+2025-03-17 20:49:46,975 - INFO - Personalized email sent to soupydude@gmail.com
+2025-03-17 20:49:47,814 - INFO - Personalized email sent to tyler_anderson74@yahoo.com
+2025-03-17 20:49:48,684 - INFO - Personalized email sent to kwankahtaka25@gmail.com
+2025-03-17 20:49:49,550 - INFO - Personalized email sent to inab424@yahoo.com
+2025-03-17 20:49:50,460 - INFO - Personalized email sent to donrion1@icloud.com
+2025-03-17 20:49:51,259 - INFO - Personalized email sent to trhodrick@gmail.com
+2025-03-17 20:49:52,034 - INFO - Personalized email sent to shravanreddy@hotmail.com
+2025-03-17 20:49:52,800 - INFO - Personalized email sent to elonmustard@gmail.com
+2025-03-17 20:49:53,976 - INFO - Personalized email sent to taforsteve@yahoo.com
+2025-03-17 20:49:54,974 - INFO - Personalized email sent to rogersflex@gmail.com
+2025-03-17 20:49:55,991 - INFO - Personalized email sent to Campbellgeo3@gmail.com
+2025-03-17 20:49:57,079 - INFO - Personalized email sent to timothy.moncrief@gmail.com
+2025-03-17 20:49:58,083 - INFO - Personalized email sent to mikekay94@gmail.com
+2025-03-17 20:49:58,957 - INFO - Personalized email sent to segoviajosefernando@outlook.com
+2025-03-17 20:49:59,960 - INFO - Personalized email sent to fullanabonet@gmail.com
+2025-03-17 20:50:00,784 - INFO - Personalized email sent to joestl@outlook.com
+2025-03-17 20:50:01,609 - INFO - Personalized email sent to peymanashrafi0828@gmail.com
+2025-03-17 20:50:02,432 - INFO - Personalized email sent to madangelxs@yahoo.com
+2025-03-17 20:50:03,270 - INFO - Personalized email sent to brdenman@gmail.com
+2025-03-17 20:50:04,289 - INFO - Personalized email sent to anitawelson622@gmail.com
+2025-03-17 20:50:05,510 - INFO - Personalized email sent to santiagoot212@gmail.com
+2025-03-17 20:50:06,336 - INFO - Personalized email sent to roneias15@gmail.com
+2025-03-17 20:50:07,158 - INFO - Personalized email sent to jw9903209@gmail.com
+2025-03-17 20:50:08,009 - INFO - Personalized email sent to shawnjohnson2003@gmail.com
+2025-03-17 20:50:08,841 - INFO - Personalized email sent to ram.anji64@gmail.com
+2025-03-17 20:50:09,691 - INFO - Personalized email sent to salterterry32@gmail.com
+2025-03-17 20:50:10,631 - INFO - Personalized email sent to seyhan.uludag@gmail.com
+2025-03-17 20:50:11,551 - INFO - Personalized email sent to lectorprincess93@gmail.com
+2025-03-17 20:50:12,474 - INFO - Personalized email sent to t.thangsimte@gmail.com
+2025-03-17 20:50:13,344 - INFO - Personalized email sent to donnyboy236@gmail.com
+2025-03-17 20:50:14,246 - INFO - Personalized email sent to govindeafchw@gmail.com
+2025-03-17 20:50:15,136 - INFO - Personalized email sent to billjoeu81@gmail.com
+2025-03-17 20:50:16,470 - INFO - Personalized email sent to ohenebakasante@gmail.com
+2025-03-17 20:50:17,494 - INFO - Personalized email sent to greteltheresa@gmail.com
+2025-03-17 20:50:18,344 - INFO - Personalized email sent to Andrewiebes1979@gmail.com
+2025-03-17 20:50:19,263 - INFO - Personalized email sent to panayottgeorgievv@abv.bg
+2025-03-17 20:50:20,274 - INFO - Personalized email sent to TheAITransfer@proton.me
+2025-03-17 20:50:21,373 - INFO - Personalized email sent to samowayo100@gmail.com
+2025-03-17 20:50:22,384 - INFO - Personalized email sent to dmc18@hotmail.co.uk
+2025-03-17 20:50:23,448 - INFO - Personalized email sent to 100mantan@gmail.com
+2025-03-17 20:50:24,455 - INFO - Personalized email sent to NZCARTELEXPORT@HOTMAIL.COM
+2025-03-17 20:50:25,377 - INFO - Personalized email sent to nzcartelexport@hotmail.com
+2025-03-17 20:50:26,144 - INFO - Personalized email sent to t.sidehustlez@gmail.com
+2025-03-17 20:50:27,322 - INFO - Personalized email sent to CombatZones02@gmail.com
+2025-03-17 20:50:28,252 - INFO - Personalized email sent to derek.nelson16.dn@gmail.com
+2025-03-17 20:50:29,176 - INFO - Personalized email sent to dykstradanny@yahoo.com
+2025-03-17 20:50:30,022 - INFO - Personalized email sent to placidrain01@yahoo.com
+2025-03-17 20:50:30,898 - INFO - Personalized email sent to inanotherperspective@gmail.com
+2025-03-17 20:50:31,714 - INFO - Personalized email sent to kingsleyegbe24@gmail.com
+2025-03-17 20:50:32,543 - INFO - Personalized email sent to chesinta@yahoo.com
+2025-03-17 20:50:33,318 - INFO - Personalized email sent to sylvanusgodwin87@gmail.com
+2025-03-17 20:50:34,291 - INFO - Personalized email sent to josequirante8@gmail.com
+2025-03-17 20:50:35,304 - INFO - Personalized email sent to r8j8s8@hotmail.com
+2025-03-17 20:50:36,182 - INFO - Personalized email sent to czilla85@gmail.com
+2025-03-17 20:50:37,100 - INFO - Personalized email sent to amirparsa00311@gmail.com
+2025-03-17 20:50:37,976 - INFO - Personalized email sent to hypoxicrage@yahoo.com
+2025-03-17 20:50:38,870 - INFO - Personalized email sent to velodromebill@yahoo.com
+2025-03-17 20:50:39,733 - INFO - Personalized email sent to kenscherian@yahoo.com
+2025-03-17 20:50:40,742 - INFO - Personalized email sent to eduardo.campolina@hotmail.com
+2025-03-17 20:50:41,659 - INFO - Personalized email sent to jrlussier777@gmail.com
+2025-03-17 20:50:42,535 - INFO - Personalized email sent to gtown46side@gmail.com
+2025-03-17 20:50:43,604 - INFO - Personalized email sent to trobits
+2025-03-17 20:50:44,452 - INFO - Personalized email sent to ...
+2025-03-17 20:50:45,332 - INFO - Personalized email sent to ...
+2025-03-17 20:50:46,227 - INFO - Personalized email sent to ...
+2025-03-17 20:50:47,021 - INFO - Personalized email sent to ...
+2025-03-17 20:50:48,033 - INFO - Personalized email sent to ...
+2025-03-17 20:50:49,006 - INFO - Personalized email sent to ...
+2025-03-17 20:50:49,985 - INFO - Personalized email sent to ...
+2025-03-17 20:50:51,011 - INFO - Personalized email sent to ...
+2025-03-17 20:50:52,103 - INFO - Personalized email sent to ...
+2025-03-17 20:50:53,127 - INFO - Personalized email sent to ...
+2025-03-17 20:50:53,951 - INFO - Personalized email sent to ...
+2025-03-17 20:50:55,482 - INFO - Personalized email sent to ...
+2025-03-17 20:50:56,407 - INFO - Personalized email sent to ...
+2025-03-17 20:50:57,431 - INFO - Personalized email sent to ...
+2025-03-17 20:50:58,657 - INFO - Personalized email sent to ...
+2025-03-17 20:50:59,579 - INFO - Personalized email sent to bigcat6936@gmail.com
+2025-03-17 20:51:00,603 - INFO - Personalized email sent to agborndip3@yahoo.com
+2025-03-17 20:51:01,406 - INFO - Personalized email sent to zavthor@gmail.com
+2025-03-17 20:51:02,291 - INFO - Personalized email sent to donnyboy236@gmail.com
+2025-03-17 20:51:03,463 - INFO - Personalized email sent to samowayo100@gmail.com
+2025-03-17 20:51:04,391 - INFO - Personalized email sent to ojong_bernard@yahoo.com
+2025-03-17 20:51:05,302 - INFO - Personalized email sent to shravanreddy@hotmail.com
+2025-03-17 20:51:06,083 - INFO - Personalized email sent to NZCARTELEXPORT@HOTMAIL.COM
+2025-03-17 20:51:06,843 - INFO - Personalized email sent to financeglobal@greenlyspheremarket.com
+2025-03-17 20:51:07,717 - INFO - Personalized email sent to rogersflex@gmail.com
+2025-03-17 20:51:08,426 - INFO - Personalized email sent to jaycase93@gmail.com
+2025-03-17 20:51:09,491 - INFO - Personalized email sent to kirashae63@gmail.com
+2025-03-17 20:51:10,411 - INFO - Personalized email sent to hypoxicrage@yahoo.com
+2025-03-17 20:51:11,329 - INFO - Personalized email sent to donrion1@icloud.com
+2025-03-17 20:51:12,587 - INFO - Personalized email sent to billjoeu81@gmail.com
+2025-03-17 20:51:13,710 - INFO - Personalized email sent to lawalridwan61@gmail.com
+2025-03-17 20:51:14,590 - INFO - Personalized email sent to jdowney5012@gmail.com
+2025-03-17 20:51:15,553 - INFO - Personalized email sent to Samueldotaru@gmail.com
+2025-03-17 20:51:16,584 - INFO - Personalized email sent to messikwaghe23@gmail.com
+2025-03-17 20:51:17,912 - INFO - Personalized email sent to suhailialyy12@gmail.com
+2025-03-17 20:51:19,137 - INFO - Personalized email sent to TheAITransfer@proton.me
+2025-03-17 20:51:20,366 - INFO - Personalized email sent to justinaggakwaghe@gmail.com
+2025-03-17 20:51:21,288 - INFO - Personalized email sent to loganbartlettt@gmail.com
+2025-03-17 20:51:22,240 - INFO - Personalized email sent to viarrah@yahoo.com
+2025-03-17 20:51:23,137 - INFO - Personalized email sent to taforsteve@yahoo.com
+2025-03-17 20:51:24,262 - INFO - Personalized email sent to michelletabeebob@gmail.com
+2025-03-17 20:51:25,182 - INFO - Personalized email sent to skylarspearman@gmail.com
+2025-03-17 20:51:26,032 - INFO - Personalized email sent to chaseziegler@gmail.com
+2025-03-17 20:51:27,127 - INFO - Personalized email sent to kvdvelde1@gmail.com
+2025-03-17 20:51:27,927 - INFO - Personalized email sent to odie@iinet.net.au
+2025-03-17 20:51:29,070 - INFO - Personalized email sent to younghus81@gmail.com
+2025-03-17 20:51:30,199 - INFO - Personalized email sent to crypto4.ever.life@gmail.com
+2025-03-17 20:51:31,014 - INFO - Personalized email sent to kakos@gmail.com
+2025-03-17 20:51:31,849 - INFO - Personalized email sent to trhodrick@gmail.com
+2025-03-17 20:51:32,649 - INFO - Personalized email sent to jordan.escoubes@hotmail.fr
+2025-03-17 20:51:33,561 - INFO - Personalized email sent to leebrady73@gmail.com
+2025-03-17 20:51:34,448 - INFO - Personalized email sent to gtown46side@gmail.com
+2025-03-17 20:51:35,305 - INFO - Personalized email sent to shariff6@gmail.com
+2025-03-17 20:51:36,166 - INFO - Personalized email sent to Invertent@gmail.com
+2025-03-17 20:51:37,467 - INFO - Personalized email sent to Kadenin@hotmail.com
+2025-03-17 20:51:38,271 - INFO - Personalized email sent to Davoneugene@yahoo.com
+2025-03-17 20:51:39,316 - INFO - Personalized email sent to nkn248448@gmail.com
+2025-03-17 20:51:40,531 - INFO - Personalized email sent to eugenensoh@yahoo.com
+2025-03-17 20:51:41,349 - INFO - Personalized email sent to soupydude@gmail.com
+2025-03-17 20:51:42,177 - INFO - Personalized email sent to jeff@jeffziegler.com
+2025-03-17 20:51:43,102 - INFO - Personalized email sent to onyekeluuchukwu@gmail.com
+2025-03-17 20:51:44,123 - INFO - Personalized email sent to johnj.veo@gmail.com
+2025-03-17 20:51:45,044 - INFO - Personalized email sent to inab424@yahoo.com
+2025-03-17 20:51:45,877 - INFO - Personalized email sent to jamescl96@yahoo.com
+2025-03-17 20:51:46,990 - INFO - Personalized email sent to bihmabelle@gmail.com
+2025-03-17 20:51:48,023 - INFO - Personalized email sent to faradaygeorges@gmail.com
+2025-03-17 20:51:48,833 - INFO - Personalized email sent to coporeal@hotmail.com
+2025-03-17 20:51:49,600 - INFO - Personalized email sent to kenscherian@yahoo.com
+2025-03-17 20:51:50,785 - INFO - Personalized email sent to leegundus@gmail.com
+2025-03-17 20:51:51,628 - INFO - Personalized email sent to pkoehler24@yahoo.com
+2025-03-17 20:51:52,573 - INFO - Personalized email sent to brewsterbens46@gmail.com
+2025-03-17 20:51:53,544 - INFO - Personalized email sent to clarencebillion@gmail.com
+2025-03-17 20:51:54,912 - INFO - Personalized email sent to dmc18@hotmail.co.uk
+2025-03-17 20:51:56,068 - INFO - Personalized email sent to Tezohchelsea@gmail.com
+2025-03-17 20:51:57,332 - INFO - Personalized email sent to test@gmail.com
+2025-03-17 20:51:58,464 - INFO - Personalized email sent to motislinco@yahoo.com
+2025-03-17 20:51:59,483 - INFO - Personalized email sent to joestl@outlook.com
+2025-03-17 20:52:00,405 - INFO - Personalized email sent to mollahnasir329@gmail.com
+2025-03-17 20:52:01,217 - INFO - Personalized email sent to c_fon@yahoo.com
+2025-03-17 20:52:02,080 - INFO - Personalized email sent to lectorprincess93@gmail.com
+2025-03-17 20:52:03,271 - INFO - Personalized email sent to darrelmelvis@yahoo.com
+2025-03-17 20:52:04,296 - INFO - Personalized email sent to wilsonjj1003@outlook.com
+2025-03-17 20:52:05,524 - INFO - Personalized email sent to inanotherperspective@gmail.com
+2025-03-17 20:52:06,548 - INFO - Personalized email sent to fortnitemontage0001@gmail.com
+2025-03-17 20:52:07,368 - INFO - Personalized email sent to ifyconstance@yahoo.com
+2025-03-17 20:52:08,300 - INFO - Personalized email sent to oliviadfortune@gmail.com
+2025-03-17 20:52:09,124 - INFO - Personalized email sent to trixie_geisa@yahoo.com
+2025-03-17 20:52:09,894 - INFO - Personalized email sent to sherikhan6594@gmail.com
+2025-03-17 20:52:10,951 - INFO - Personalized email sent to govindeafchw@gmail.com
+2025-03-17 20:52:11,784 - INFO - Personalized email sent to mekemblayz@gmail.com
+2025-03-17 20:52:12,843 - INFO - Personalized email sent to derrick14@hotmail.com
+2025-03-17 20:52:13,818 - INFO - Personalized email sent to seancjohnson0417@gmail.com
+2025-03-17 20:52:14,717 - INFO - Personalized email sent to omondiderrique@gmail.com
+2025-03-17 20:52:16,071 - INFO - Personalized email sent to arrey.bess@gmail.com
+2025-03-17 20:52:16,993 - INFO - Personalized email sent to CombatZones02@gmail.com
+2025-03-17 20:52:18,021 - INFO - Personalized email sent to tetabi@yahoo.com
+2025-03-17 20:52:18,939 - INFO - Personalized email sent to jonesdalecia@gmail.com
+2025-03-17 20:52:19,919 - INFO - Personalized email sent to leafman21.ba@gmail.com
+2025-03-17 20:52:20,856 - INFO - Personalized email sent to tyler_anderson74@yahoo.com
+2025-03-17 20:52:21,777 - INFO - Personalized email sent to 11014628@live.mercer.edu
+2025-03-17 20:52:22,728 - INFO - Personalized email sent to dltmtp@gmail.com
+2025-03-17 20:52:23,655 - INFO - Personalized email sent to flonardo19@hotmail.com
+2025-03-17 20:52:24,583 - INFO - Personalized email sent to ohenebakasante@gmail.com
+2025-03-17 20:52:25,608 - INFO - Personalized email sent to amirparsa00311@gmail.com
+2025-03-17 20:52:26,625 - INFO - Personalized email sent to omgbamelissa@yahoo.fr
+2025-03-17 20:52:27,643 - INFO - Personalized email sent to segoviajosefernando@outlook.com
+2025-03-17 20:52:28,567 - INFO - Personalized email sent to jrlussier777@gmail.com
+2025-03-17 20:52:29,591 - INFO - Personalized email sent to syrus.01@gmail.com
+2025-03-17 20:52:30,391 - INFO - Personalized email sent to kwankahtaka25@gmail.com
+2025-03-17 20:52:31,410 - INFO - Personalized email sent to segunolaloye100@gmail.com
+2025-03-17 20:52:32,348 - INFO - Personalized email sent to colinjrains@gmail.com
+2025-03-17 20:52:33,716 - INFO - Personalized email sent to calvin.james00@gmail.com
+2025-03-17 20:52:34,785 - INFO - Personalized email sent to garysimeon447@gmail.com
+2025-03-17 20:52:36,142 - INFO - Personalized email sent to sylvanusgodwin87@gmail.com
+2025-03-17 20:52:37,164 - INFO - Personalized email sent to nasirmollah192@gmail.com
+2025-03-17 20:52:38,190 - INFO - Personalized email sent to tosin4525@gmail.com
+2025-03-17 20:52:39,521 - INFO - Personalized email sent to ebtambi@gmail.com
+2025-03-17 20:52:40,750 - INFO - Personalized email sent to komtangi2000@yahoo.com
+2025-03-17 20:52:41,684 - INFO - Personalized email sent to asdfasf@gmail.com
+2025-03-17 20:52:42,901 - INFO - Personalized email sent to dilnasheenfatima786@gmail.com
+2025-03-17 20:52:43,940 - INFO - Personalized email sent to itsdylanlol@gmail.com
+2025-03-17 20:52:44,802 - INFO - Personalized email sent to derek.nelson16.dn@gmail.com
+2025-03-17 20:52:45,683 - INFO - Personalized email sent to johnw69@gmail.com
+2025-03-17 20:52:46,647 - INFO - Personalized email sent to carlhenry@yahoo.com
+2025-03-17 20:52:47,865 - INFO - Personalized email sent to greteltheresa@gmail.com
+2025-03-17 20:52:48,745 - INFO - Personalized email sent to Andrewiebes1979@gmail.com
+2025-03-17 20:52:49,618 - INFO - Personalized email sent to neetheguy@gmail.com
+2025-03-17 20:52:50,683 - INFO - Personalized email sent to bobgabrandon13@gmail.com
+2025-03-17 20:52:51,563 - INFO - Personalized email sent to brdenman@gmail.com
+2025-03-17 20:52:52,457 - INFO - Personalized email sent to eduardo.campolina@hotmail.com
+2025-03-17 20:52:53,550 - INFO - Personalized email sent to nzcartelexport@hotmail.com
+2025-03-17 20:52:54,472 - INFO - Personalized email sent to placidrain01@yahoo.com
+2025-03-17 20:52:55,259 - INFO - Personalized email sent to mikekay94@gmail.com
+2025-03-17 20:52:56,050 - INFO - Personalized email sent to augustaendo@gmail.com
+2025-03-17 20:52:56,876 - INFO - Personalized email sent to fullanabonet@gmail.com
+2025-03-17 20:52:57,671 - INFO - Personalized email sent to aline.desir001@gmail.com
+2025-03-17 20:52:58,601 - INFO - Personalized email sent to zacharyladd9@gmail.com
+2025-03-17 20:52:59,592 - INFO - Personalized email sent to lydia1355@yahoo.com
+2025-03-17 20:53:00,616 - INFO - Personalized email sent to ngarcon@hotmail.com
+2025-03-17 20:53:01,793 - INFO - Personalized email sent to larryw4356@icloud.com
+2025-03-17 20:53:02,734 - INFO - Personalized email sent to ksain001@gmail.com
+2025-03-17 20:53:03,680 - INFO - Personalized email sent to MicKeycarter48@gmail.com
+2025-03-17 20:53:04,581 - INFO - Personalized email sent to Howien1@msn.com
+2025-03-17 20:53:05,633 - INFO - Personalized email sent to cliftonconfident@gmail.com
+2025-03-17 20:53:06,563 - INFO - Personalized email sent to juiuojie@gmail.com
+2025-03-17 20:53:07,682 - INFO - Personalized email sent to velodromebill@yahoo.com
+2025-03-17 20:53:08,914 - INFO - Personalized email sent to pantojaeduardo@yahoo.com
+2025-03-17 20:53:10,117 - INFO - Personalized email sent to wambuisusan139@gmail.com
+2025-03-17 20:53:11,125 - INFO - Personalized email sent to farahs.james@gmail.com
+2025-03-17 20:53:12,298 - INFO - Personalized email sent to angk9roofing@gmail.com
+2025-03-17 20:53:13,283 - INFO - Personalized email sent to DRECMOORE@BELLSOUTH.NET
+2025-03-17 20:53:14,618 - INFO - Personalized email sent to Campbellgeo3@gmail.com
+2025-03-17 20:53:15,570 - INFO - Personalized email sent to Soehlman@gmail.com
+2025-03-17 20:53:16,636 - INFO - Personalized email sent to ffednerffenelon@gmail.com
+2025-03-17 20:53:17,915 - INFO - Personalized email sent to santiagoot212@gmail.com
+2025-03-17 20:53:18,853 - INFO - Personalized email sent to timothy.moncrief@gmail.com
+2025-03-17 20:53:19,904 - INFO - Personalized email sent to arreytabeebob@gmail.com
+2025-03-17 20:53:21,049 - INFO - Personalized email sent to Georgeegbereke@gmail.com
+2025-03-17 20:53:22,114 - INFO - Personalized email sent to 100mantan@gmail.com
+2025-03-17 20:53:23,138 - INFO - Personalized email sent to 94bunts-ethical@icloud.com
+2025-03-17 20:53:24,168 - INFO - Personalized email sent to elishangolemasango@yahoo.com
+2025-03-17 20:53:25,157 - INFO - Personalized email sent to peymanashrafi0828@gmail.com
+2025-03-17 20:53:26,114 - INFO - Personalized email sent to anitawelson622@gmail.com
+2025-03-17 20:53:27,039 - INFO - Personalized email sent to nakalembesamie@gmail.com
+2025-03-17 20:53:27,910 - INFO - Personalized email sent to salterterry32@gmail.com
+2025-03-17 20:53:28,879 - INFO - Personalized email sent to trobits@protonmail.com
+2025-03-17 20:53:29,851 - INFO - Personalized email sent to kingsleyegbe24@gmail.com
+2025-03-17 20:53:30,824 - INFO - Personalized email sent to czilla85@gmail.com
+2025-03-17 20:53:31,746 - INFO - Personalized email sent to kathytabeebob@gmail.com
+2025-03-17 20:53:32,872 - INFO - Personalized email sent to komtanginabi54@gmail.com
+2025-03-17 20:53:34,203 - INFO - Personalized email sent to madangelxs@yahoo.com
+2025-03-17 20:53:35,432 - INFO - Personalized email sent to seyhan.uludag@gmail.com
+2025-03-17 20:53:36,764 - INFO - Personalized email sent to roneias15@gmail.com
+2025-03-17 20:53:37,779 - INFO - Personalized email sent to palette_doublet_1q@icloud.com
+2025-03-17 20:53:38,886 - INFO - Personalized email sent to desir.elider@gmail.com
+2025-03-17 20:53:39,688 - INFO - Personalized email sent to adesinapeter64@gmail.com
+2025-03-17 20:53:40,552 - INFO - Personalized email sent to superstar_33168@yahoo.com
+2025-03-17 20:53:41,453 - INFO - Personalized email sent to drharish98@gmail.com
+2025-03-17 20:53:42,497 - INFO - Personalized email sent to yonasteferra@gmail.com
+2025-03-17 20:53:43,447 - INFO - Personalized email sent to mohamed.khourshid86@gmail.com
+2025-03-17 20:53:44,444 - INFO - Personalized email sent to christopherbesong@yahoo.com
+2025-03-17 20:53:45,383 - INFO - Personalized email sent to cadeziegler@gmail.com
+2025-03-17 20:53:46,331 - INFO - Personalized email sent to frantzfortune.veo@gmail.com
+2025-03-17 20:53:47,184 - INFO - Personalized email sent to dykstradanny@yahoo.com
+2025-03-17 20:53:48,115 - INFO - Personalized email sent to oceantomlinson@gmail.com
+2025-03-17 20:53:49,080 - INFO - Personalized email sent to jites2014@gmail.com
+2025-03-17 20:53:49,909 - INFO - Personalized email sent to t.sidehustlez@gmail.com
+2025-03-17 20:53:50,732 - INFO - Personalized email sent to obasiwills@gmail.com
+2025-03-17 20:53:51,682 - INFO - Personalized email sent to qcrem@live.com
+2025-03-17 20:53:52,428 - INFO - Personalized email sent to ambeshardrak64@yahoo.com
+2025-03-17 20:53:53,400 - INFO - Personalized email sent to jw9903209@gmail.com
+2025-03-17 20:53:54,301 - INFO - Personalized email sent to joeyfolloway@aol.com
+2025-03-17 20:53:55,223 - INFO - Personalized email sent to kwankahtaka25@gmaiil.com
+2025-03-17 20:53:55,995 - INFO - Personalized email sent to emmanuel@tabe-ebob.org
+2025-03-17 20:53:56,819 - INFO - Personalized email sent to dennis.king.1997.dk@gmail.com
+2025-03-17 20:53:57,697 - INFO - Personalized email sent to shawnjohnson2003@gmail.com
+2025-03-17 20:53:58,572 - INFO - Personalized email sent to danielle.tabeebob@gmail.com
+2025-03-17 20:53:59,481 - INFO - Personalized email sent to cyrilobale@gmail.com
+2025-03-17 20:54:00,321 - INFO - Personalized email sent to elonmustard@gmail.com
+2025-03-17 20:54:01,134 - INFO - Personalized email sent to danielle.tabeebob25@gmail.com
+2025-03-17 20:54:02,014 - INFO - Personalized email sent to jettziegler@gmail.com
+2025-03-17 20:54:03,000 - INFO - Personalized email sent to daltonziegler@gmail.com
+2025-03-17 20:54:04,106 - INFO - Personalized email sent to folalawal@bellsouth.net
+2025-03-17 20:54:05,289 - INFO - Personalized email sent to jtsherri@gmail.com
+2025-03-17 20:54:06,374 - INFO - Personalized email sent to lauremarquise@gmail.com
+2025-03-17 20:54:07,665 - INFO - Personalized email sent to jose.jose3155@gmail.com
+2025-03-17 20:54:08,815 - INFO - Personalized email sent to bkabuyi@gmail.com
+2025-03-17 20:54:10,024 - INFO - Personalized email sent to dobimi@yahoo.com
+2025-03-17 20:54:11,028 - INFO - Personalized email sent to farita79@gmail.com
+2025-03-17 20:54:11,989 - INFO - Personalized email sent to mekemeblayz@gmail.com
+2025-03-17 20:54:12,852 - INFO - Personalized email sent to markjolsson@gmail.com
+2025-03-17 20:54:13,740 - INFO - Personalized email sent to hoove55@hotmail.com
+2025-03-17 20:54:14,634 - INFO - Personalized email sent to josequirante8@gmail.com
+2025-03-17 20:54:15,497 - INFO - Personalized email sent to cnmanyi@gmail.com
+2025-03-17 20:54:16,306 - INFO - Personalized email sent to drdesir@yahoo.com
+2025-03-17 20:54:17,040 - INFO - Personalized email sent to samtreastttwt@gmail.com
+2025-03-17 20:54:17,978 - INFO - Personalized email sent to bbawak@gmail.com
+2025-03-17 20:54:18,799 - INFO - Personalized email sent to kuldeep13112@gmail.com
+2025-03-17 20:54:19,716 - INFO - Personalized email sent to yonas_tamene@hotmail.com
+2025-03-17 20:54:20,897 - INFO - Personalized email sent to shaunhealey83@outlook.com
+2025-03-17 20:54:21,922 - INFO - Personalized email sent to louisvilsaint@gmail.com
+2025-03-17 20:54:22,894 - INFO - Personalized email sent to donovanslumberandsupplies@gmail.com
+2025-03-17 20:54:23,675 - INFO - Personalized email sent to opaojong@gmail.com
+2025-03-17 20:54:24,582 - INFO - Personalized email sent to t.thangsimte@gmail.com
+2025-03-17 20:54:25,355 - INFO - Personalized email sent to daemiens@gmail.com
+2025-03-17 20:54:25,632 - ERROR - Error sending email to dkofii@yahoo.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:25,878 - ERROR - Error sending email to mangaclaudine@yahoo.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:26,186 - ERROR - Error sending email to tabidenis33@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:26,487 - ERROR - Error sending email to jeff+trobits@jones-us.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:26,788 - ERROR - Error sending email to catherinefomukong@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:27,114 - ERROR - Error sending email to saif.shah89@yahoo.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:27,402 - ERROR - Error sending email to rexanniedcontententwriter@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:27,701 - ERROR - Error sending email to howien1@msn.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:28,006 - ERROR - Error sending email to chantaltabeebob43@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:28,294 - ERROR - Error sending email to enrimagifts@yahoo.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:28,554 - ERROR - Error sending email to nasir@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:28,839 - ERROR - Error sending email to billy_ozone@aol.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:29,140 - ERROR - Error sending email to julamprecht@duck.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:29,455 - ERROR - Error sending email to ec_ako@yahoo.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:29,763 - ERROR - Error sending email to ram.anji64@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:30,077 - ERROR - Error sending email to brisimone02@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:30,390 - ERROR - Error sending email to bobgabrandon@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:30,692 - ERROR - Error sending email to gga@unc.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:30,999 - ERROR - Error sending email to lknight.4btp2@passmail.net: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:31,272 - ERROR - Error sending email to chesinta@yahoo.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:31,604 - ERROR - Error sending email to r8j8s8@hotmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:31,898 - ERROR - Error sending email to bawakbawak@outlook.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:32,178 - ERROR - Error sending email to tezohchelsea@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:32,477 - ERROR - Error sending email to panayottgeorgievv@abv.bg: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 00721157ae682-6ff32841a30sm24044967b3.7 - gsmtp')
+2025-03-17 20:54:32,479 - INFO - Completed sending personalized emails to 488 recipients
+2025-03-17 20:54:32,550 - INFO - Updated sent articles list with 4 new articles
+2025-03-21 22:44:46,925 - INFO - Starting main process...
+2025-03-21 22:44:46,926 - INFO - Loaded 8 previously sent articles
+2025-03-21 22:44:46,926 - INFO - Starting article scraping process...
+2025-03-21 22:45:09,387 - INFO - Attempting to navigate to https://www.trobits.com/articles
+2025-03-21 22:45:20,449 - INFO - Found 23 article elements
+2025-03-21 22:45:20,459 - INFO - Processing first 4 articles
+2025-03-21 22:45:20,459 - INFO - Processing article: https://www.trobits.com/articles/67ddd4d28f87dd96664dfde5
+2025-03-21 22:45:26,098 - INFO - Found title: Daily Brief with Rexannie: Mar. 21, 2025
+2025-03-21 22:45:26,172 - INFO - Found 16 paragraphs
+2025-03-21 22:45:26,172 - INFO - Found author: by Rexannie
+2025-03-21 22:45:26,172 - INFO - Successfully scraped article: 'Daily Brief with Rexannie: Mar. 21, 2025'
+2025-03-21 22:45:26,172 - INFO - Processing article: https://www.trobits.com/articles/67dd500c8f87dd96664dfde4
+2025-03-21 22:45:31,617 - INFO - Found title: Solana Price Drops 29% in 2025 Despite Liquidity Surge and US Crypto Stockpile Inclusion
+2025-03-21 22:45:31,761 - INFO - Found 35 paragraphs
+2025-03-21 22:45:31,761 - INFO - Found author: by Saba Tauseef
+2025-03-21 22:45:31,761 - INFO - Successfully scraped article: 'Solana Price Drops 29% in 2025 Despite Liquidity Surge and US Crypto Stockpile Inclusion'
+2025-03-21 22:45:31,761 - INFO - Processing article: https://www.trobits.com/articles/67dd4c068f87dd96664dfde3
+2025-03-21 22:45:37,444 - INFO - Found title: EOS:The Blockchain for Scalable and Fast Decentralized Applications
+2025-03-21 22:45:37,586 - INFO - Found 29 paragraphs
+2025-03-21 22:45:37,587 - INFO - Found author: by Segun Olaloye
+2025-03-21 22:45:37,587 - INFO - Successfully scraped article: 'EOS:The Blockchain for Scalable and Fast Decentralized Applications'
+2025-03-21 22:45:37,587 - INFO - Processing article: https://www.trobits.com/articles/67dd49a48f87dd96664dfde2
+2025-03-21 22:45:43,049 - INFO - Found title: Bitcoin Reaches New Highs: What’s Behind the Surge?
+2025-03-21 22:45:43,185 - INFO - Found 33 paragraphs
+2025-03-21 22:45:43,185 - INFO - Found author: by Sunkanmi Awodiran
+2025-03-21 22:45:43,185 - INFO - Successfully scraped article: 'Bitcoin Reaches New Highs: What’s Behind the Surge?'
+2025-03-21 22:45:43,187 - INFO - Saved 4 articles to articles_data_cleaned.json
+2025-03-21 22:45:43,275 - INFO - Chrome WebDriver has been closed.
+2025-03-21 22:45:43,275 - INFO - Preparing to send personalized emails...
+2025-03-21 22:45:50,252 - INFO - Personalized email sent to managingpartner@datajungle.ai
+2025-03-21 22:45:51,309 - INFO - Personalized email sent to bawakbawak@outlook.com
+2025-03-21 22:45:52,424 - INFO - Personalized email sent to tunnel2525@gmail.com
+2025-03-21 22:45:52,425 - INFO - Completed sending personalized emails to 3 recipients
+2025-03-21 22:45:52,462 - INFO - Updated sent articles list with 4 new articles
