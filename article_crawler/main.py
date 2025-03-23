@@ -336,7 +336,7 @@ def send_email_via_gmail(gmail_user, gmail_password, recipient_list, subject, bo
 
                     server.sendmail(
                         from_addr=gmail_user,
-                        to_addrs=[gmail_user, email],
+                        to_addrs=[email],  # Only send to the recipient
                         msg=msg.as_string()
                     )
                     logging.info(f"Personalized email sent to {email}")
